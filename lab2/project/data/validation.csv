@@ -1,0 +1,3024 @@
+message_id,text,label,free_rate,money_rate,remove_rate,exclamation_rate,dollar_rate,capital_run_mean
+6c95b20ac24fd89d,"Subject: International calls for only 33 cents per minute with no subscription
+
+Dear User,
+
+Do you ever wish you could easily call people you know in other countries
+for up to 85% less than standard call prices?! And then to make these savings
+without having to subscribe to any low cost calling service?! We have now
+launched a product that does exactly that!
+
+You can now call people in most popular destinations around the world for
+only 33 cents per minute! There are no hidden charges, you do not need to
+signup, use any credit cards, or pay any extra bills! You can try this
+service at no risk and choose to use it with no commitment!
+
+To use this new service, simply dial our access number 1530 927 055 and
+once connected, dial the actual international number you wish to call.
+
+For more information and the current list of countries you can call, 
+please check our website http://www.ireland.pd-dial.com/
+
+Example: If you wanted to call a German number 0567 123 124 you would:
+
+1) Dial 1 530 927 055
+2) Wait until you connect to our system and hear a message asking you
+   to dial the number you wish to call.
+3) Dial the full international number starting 00. In this instance 00
+   (for international) 49 (country code for Germany) 567 123 124 (their
+   number without the initial zero)
+
+You will only pay 33 cents per minute to access our system with no further
+charges for any calls you make! You can also use this service to make
+cheap international calls from mobiles too! However please check the
+costs of calling 1530 numbers from your mobile if you are unsure.
+
+You only ever pay for the cost of calling our access number which will
+appear on your normal bill. However any international calls you make will
+not appear on your bill, so you only ever pay 33 cents per minute when
+using our service!
+
+If calling from a mobile, please ensure that you do not press the green/send
+key again after dialling the actual mobile number, or you will be billed
+for a second call by your mobile operator.
+
+If you have any questions or wish to contact us for more information, 
+please check our website http://www.ireland.pd-dial.com/ for details.
+
+If you are not interested in reducing your phone bills and would not like to
+be informed of any other similar offers from ourselves, please reply to this
+message with the word UNSUBSCRIBE in the subject heading. If you have your
+email forwarded, please ensure that you unsubscribe from the actual account
+email is sent to. We apologise if this message has inconvenienced you in any
+way.
+
+
+",spam,0.0,0.0,0.0,0.003543307086614173,0.0,1.3225806451612903
+eec728149e9886d7,"Subject: [ILUG] Seeking Your Partnership
+
+Dear Partner to be,
+
+First, I must apologise to you for using this medium to communicate to you
+about this project.
+
+I am a highly placed official of  Government of Nigeria and also a
+founding member of the ruling party in Power now,the Peoples Democratic
+Party(PDP).
+
+My committee - The Niger Delta Development Corporation(NDDC)-which is in
+charge of managing and supervising  the disbursement of oil sales revenues
+for the Nigerian government.The revenues  under our control runs into
+several hundred of millions of dollars monthly.My self and   
+other colleagues in the NDDC are currently in need of a foreign partner
+with whose bank account we shall transfer the sum of Forty Nine Million
+Five Hundred Thosand United States Dollars($49.5m).This fund accrued to us
+as commission for oil sales contracts handled under our supervision.
+
+The fund is presently waiting in the Government Account named CBN/FGN
+INDEPENDENT REVENUE account number 400-939134 with J.P.MORGAN CHASE
+BANK,New York.You can do your independent verification of this. However,
+by virtue of our  position as civil servants and members of the NDDC, we
+cannot acquire this funds in our name. This is because as top civil
+servants, we are not allowed by law of the land to own or operate bank
+accounts outside our country for now.
+
+I have been delegated as a matter of trust by my colleagues,
+to look for an overseas partner in whose account we would
+transfer the fund
+
+Hence the reason for this mail.We shall be Transferring the money to your
+account with your company as we shall present your company as a registered
+Foreign company in Nigeria and you are been paid for a contract which you
+executed for our country through the NDDC and any other Federal Ministry
+that we decide to use to siphon the funds through.
+
+For your support and partnership,please reply me to negotiate your fees or
+the percentage you wish to be paid when the funds arrive your bank account.
+
+You must however note that this transaction, with
+regards to our disposition to continue with you, is subject
+to these terms. Firstly, our conviction of your transparency.
+Secondly, that you treat this transaction with utmost secrecy
+and confidentiality. Finally and above all, that you will provide
+an account that you have absolute control over.
+
+The transaction, although discrete, is legitimate and there
+is no risk or legal disadvantages either to ourselves or yourself now or
+in the future as we have put in place perfect mchineries that will ensure
+a hitch free transfer into your account upon acceptance.
+
+The transfer will be effected to your account within ten-fourteen
+(10-14) working days as soon as we reach an agreement and you furnish
+me with a  suitable bank account and company name and address with all
+your contact numbers including fax number.
+
+I am looking forward to doing business with you and do solicit
+your confidentiality in this transaction,  Please mail your
+response to me.
+
+Yours faithfully,
+Anderson K. Eseimoku
+ 
+
+
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+
+",spam,0.0018796992481203006,0.0018796992481203006,0.0,0.0,0.0003136762860727729,1.5903614457831325
+00f2413a5421b49a,"Subject: [Razor-users] Exit.status =13 ?
+
+Bonjour,
+
+ Always for my script, if i run it manually in console all is ok
+ whether is the user.
+ But if i try to implement it in my general script filter running
+ whith qmailq UID (503) :
+
+ I've got 13 has exit status, and in my mail log :
+ ""Can't call method ""log"" on unblessed reference at
+  /usr/lib/perl5/site_perl/5.6.0/Razor2/Client/Agent.pm line 211.""
+
+  My log file is in /home/user/.razor/razor-agent.log
+  and have write permission for qmailq user.
+
+  Any idea ??
+
+--
+Toorop 
+Lorsque que vous avez éliminé l'impossible, ce qui reste, 
+même si c'est improbable, doit être la vérité.
+www.spoonsdesign.com
+
+---------------------------------
+Mail scanné par Protecmail filter 
+
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by: OSDN - Tired of that same old
+cell phone?  Get a new here for FREE!
+https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+_______________________________________________
+Razor-users mailing list
+Razor-users@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/razor-users
+
+",ham,0.005952380952380952,0.0,0.0,0.0008968609865470852,0.0,1.32
+b7bf0f1cfc0fa37f,"Subject: Postmortem: Ubi Soft China's Music Up -- Summer Rainbow
+
+URL: http://www.newsisfree.com/click/-0,8613667,159/
+Date: 2002-10-06T18:12:53+01:00
+
+Ubi China had always wanted to make a PC game for the local market, but a 
+number to factors kept the idea on hold. In January 2001, the right incentive 
+to motivate Ubi China to try a local project finally arrived: the license for 
+""Music Up"", a popular animated property.
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.1428571428571428
+27bcc632c0a2fc78,"Subject: Discount Smokes
+
+Dear Sir / Madam
+
+If you are fed up of being 'ripped off' by the British government every time you buy your tobacco, then you should visit our website, where you can now buy 4 cartons of cigarettes, or 40 pouches of rolling tobacco from as little as 170 Euros (approx 105 pounds), inclusive of delivery by registered air mail from our office in Spain.  
+
+Why pay more???
+
+Visit our website at
+http://www.cheapsmoking.com/?ID=2
+
+Best regards
+Sales Department
+Cheap Smoking
+Spain
+xay1992351y
+
+",spam,0.0,0.0,0.0,0.0,0.0,1.0526315789473684
+297db24ff3c83184,"Subject: [Spambayes] Deployment
+
+
+    Greg> In case it wasn't obvious, I'm a strong proponent of filtering
+    Greg> junk mail as early as possible, ie. right after the SMTP DATA
+    Greg> command has been completed.  Filtering spam at the MUA just seems
+    Greg> stupid to me -- by the time it gets to me MUA, the spammer has
+    Greg> already stolen my bandwidth.  
+
+The two problems I see with filtering that early are:
+
+    1. Everyone receiving email via that server will contribute ham to the
+       stew, making the Bayesian classification less effective.
+
+    2. Given that there will be some false positives, you absolutely have to
+       put the mail somewhere.  You can't simply delete it.  (I also don't
+       like the TMDA-ish business of replying with a msg that says, ""here's
+       what you do to really get your message to me.""  That puts an extra
+       burden on my correspondents.)  As an individual, I would prefer you
+       put spammish messages somewhere where I can review them, not an
+       anonymous sysadmin who I might not trust with my personal email
+       (nothing against you Greg ;-).
+
+I personally prefer to manage this stuff at the user agent level.  Bandwidth
+is a heck of a lot cheaper than my time.
+
+Skip
+",ham,0.0,0.0,0.0,0.0,0.0,1.40625
+c4721d1334c97072,"Subject: Re: Electric car an Edsel...
+
+Sunday I drove from Portland down to the Woodburn Dragstrip to check out 
+the NEDRA Nationals. <http://www.nedra.com/>
+
+The electric cars, motorcycles and dragsters had some great times and I 
+ended up with a few pics and a nice deep burn...
+
+John Waylan (who was interviewed in Wired a few years back) pulled out a 
+14.4 second run in the quarter mile (91mph), on a battery pack that 
+hasn't been broken in yet. He expects to break his record next year 
+topping his 13.1sec/99mph run a couple of years ago. He's shooting for a 
+12 second run.
+
+John also took out a replica 1908 Oldsmobile for a respectable 47mph 
+run. (Remember, we started out with electric cars.)
+
+Near the end of the day, Kilacycle took the track with an amazing 111mph 
+run. Talk about a crotch rocket.
+
+...Ross...
+
+
+On Saturday, August 31, 2002, at 01:45  AM, Adam L. Beberg wrote:
+> Personally I don't think Americans will ever go electric, there is too 
+> much
+> testosterone linked to the auto as the male's primary form of 
+> compesating
+> for other things. See.. now that's a job for you femanists, teach women 
+> not
+> to fall for a fast environmentally destuctive vehicle, you should only 
+> have
+> to rewrite 98% of the genome ;)
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.1388888888888888
+da32333482ad02f0,"Subject: [ILUG] BANK ERROR IN YOUR FAVOR
+
+SUBSTANTIAL MONTHLY INCOME MAKERS VOUCHER
+Income Transfer Systems/Distribution Center
+************************************************************
+Pending Income Amount:  up to $21,000.00
+
+Action:http://www.hotresponders.com/cgi-bin/varpro/vartrack.cgi?t=wendy7172:1
+************************************************************
+Good News!  You have made the Substancial Income Makers list.  This means you get the entire system and get the opportunity to make up to $21,000.00 a month.
+
+To receive this system, follow this link!  
+       http://www.hotresponders.com/cgi-bin/varpro/vartrack.cgi?t=wendy7172:1
+
+Get ready, you will immediately receive all the information needed to make a substantial monthly income.
+What are you waiting for!!  http://www.hotresponders.com/cgi-bin/varpro/vartrack.cgi?t=wendy7172:1
+
+You are receiving this email due to having requested info on internet businesses.  If you are not longer looking for one, please click the remove link below. 
+Click on the link below to remove yourself
+http://www.hotresponders.com/cgi-bin/varpro/r.cgi?id=wendy7172&a=ilug@linux.ie
+
+AOL Users
+<a href=""http://www.hotresponders.com/cgi-bin/varpro/r.cgi?id=wendy7172&a=ilug@linux.ie""> Remove Me</a>
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+",spam,0.0,0.0,0.014563106796116505,0.0028328611898017,0.00141643059490085,2.2093023255813953
+cb970cfad4f1efe8,"Subject: Re: [SAtalk] URL blacklist
+
+
+SpamTalk said:
+> Probably better than the ""spam phrases"" approach would be the database
+> approach as currently used for white/black listing.
+> Any way to tie that to an XML retrieval from a list of central repositories?
+> Does mySQL do replication? A properly done XML would let us eyeball the list
+> as well as use it to keep the database up to date.
+> Another idea: could we synthesize an RBL so that
+> http://www.spammer.com/spam/web/bug/ becomes spam.web.bug.x.www.spammer.com
+> for a reverse lookup? It is going to get tricky, how to specify a randomized
+> intermediate directory?
+
+A good plan, needs an implementation though: 
+
+        http://bl.reynolds.net.au/ksi/email/
+
+hmm. seems down to me.  Basically it's a plan to store hash sums of
+URLs/phone numbers found in spam in a DNSBL, for apps like SpamAssassin to
+look up.  A little like spamcop's ""spamvertized URL"" list...
+
+--j.
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by: DEDICATED SERVERS only $89!
+Linux or FreeBSD, FREE setup, FAST network. Get your own server 
+today at http://www.ServePath.com/indexfm.htm
+_______________________________________________
+Spamassassin-talk mailing list
+Spamassassin-talk@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+
+
+",ham,0.004807692307692308,0.0,0.0,0.0007434944237918215,0.0007434944237918215,2.108108108108108
+ba3fcbfe651c263a,"Subject: ""A billion here, a billion there...""
+
+> Bottom line: the late Senate Minority Leader certainly would have 
+> endorsed the meaning behind the phrase, but it is questionable that he 
+> ever coined it.
+
+An interesting link courtesy of the Harrow Report: there's no written 
+evidence so far that Senator Everett Dirksen is the source of the 
+infamous quote attributed to him. It's kind of astounding that there is 
+enough general social consensus (25% of all queries makes it a *very* 
+FAQ) and ""eyewitness"" reporting without a single written source. What 
+the essay below doesn't seem to answer, though, is what the earliest 
+attributed quote in print by any other writer is. I'd naturally be much 
+more skeptical if the ""quote"" emerged after his death... RK
+
+===============================================================
+http://www.dirksencenter.org/featuresBillionHere.htm
+
+""A billion here, a billion there . . .""
+
+Did Dirksen ever say, "" A billion here, a billion there, and pretty soon 
+you're talking real money""? (or anything very close to that?)
+
+Perhaps not. Based on an exhaustive search of the paper and audio 
+records of The Dirksen Congressional Center, staffers there have found 
+no evidence that Dirksen ever uttered the phrase popularly attributed to 
+him.
+
+Archivists undertook the search after studying research statistics 
+showing that more than 25 percent of inquiries have to do with the quote 
+or its variations.
+
+Here is what they examined: all of the existing audio tapes of the famed 
+""Ev and Charlie"" and ""Ev and Jerry"" shows, all newspapers clippings in 
+the Dirksen Papers, about 12,500 pages of Dirksen's own speech notes, 
+transcripts of his speeches and media appearances, transcripts of 
+Republican leadership press conferences, and Dirksen's statements on the 
+Senate floor as documented in the Congressional Record.
+
+Although Dirksen rarely prepared the text of a speech, preferring to 
+rely on notes, he did employ brief phrases to remind him of a particular 
+turn of phrase. For example, in referring to the public debt or 
+excessive government spending, Dirksen would jot the word ""pothole"" to 
+remind him to tell the following story, on this occasion in reference to 
+the debt ceiling:
+
+
+""As I think of this bill, and the fact that the more progress we make 
+the deeper we go into the hole, I am reminded of a group of men who were 
+working on a street. They had dug quite a number of holes. When they got 
+through, they failed to puddle or tamp the earth when it was returned to 
+the hole, and they had a nice little mound, which was quite a traffic 
+hazard.
+
+""Not knowing what to do with it, they sat down on the curb and had a 
+conference. After a while, one of the fellows snapped his fingers and 
+said, ‘I have it. I know how we will get rid of that overriding earth 
+and remove the hazard. We will just dig the hole deeper.'"" 
+[Congressional Record, June 16, 1965, p. 13884].
+
+
+On the same occasion, Dirksen relied on yet another ""spending"" story, 
+one he labeled ""cat in the well"":
+
+
+""One time in the House of Representatives [a colleague] told me a story 
+about a proposition that a teacher put to a boy. He said, ‘Johnny, a cat 
+fell in a well 100 feet deep. Suppose that cat climbed up 1 foot and 
+then fell back 2 feet. How long would it take the cat to get out of the 
+well?'
+
+""Johnny worked assiduously with his slate and slate pencil for quite a 
+while, and then when the teacher came down and said, ‘How are you 
+getting along?' Johnny said, ‘Teacher, if you give me another slate and 
+a couple of slate pencils, I am pretty sure that in the next 30 minutes 
+I can land that cat in hell.'
+
+""If some people get any cheer our of a $328 billion debt ceiling, I do 
+not find much to cheer about concerning it."" [Congressional Record, June 
+16, 1965, p. 13884].
+
+
+But there are no such reminders for the ""A billion here, a billion 
+there . . . "" tag line as there surely should have been given Dirksen's 
+note-making tendencies. He spoke often and passionately about the debt 
+ceiling, federal spending, and the growth of government. Yet there is no 
+authoritative reference to the ""billion"" phrase.
+
+The chief evidence in support of Dirksen making the statement comes from 
+people who claim to have heard him. The Library of Congress, for 
+example, cites someone's personal observation on the campaign trail as 
+evidence. The Dirksen Center has received calls from people who heard 
+Dirksen say those words, some even providing the date of the event. But 
+cross-checking that information with the records has, so far, turned up 
+nothing in the way of confirmation.
+
+The closest documented statement came at a joint Senate-House Republican 
+leadership press conference on March 8, 1962, when Dirksen said, ""The 
+favorite sum of money is $1 billion – a billion a year for a fatter 
+federal payroll, a billion here, a billion there."" [EMD Papers, 
+Republican Congressional Leadership File, f. 25] But the ""and pretty 
+soon you're talking real money"" is missing.
+
+In another close call, the New York Times, January 23, 1961, quoted 
+Dirksen: ""Look at education – two-and-one-half billion – a billion for 
+this, a billion for that, a billion for something else. Three to five 
+billion for public works. You haven't got any budget balance left. 
+You'll be deeply in the red."" [Cited in Byron Hulsey's ""Everett Dirksen 
+and the Modern Presidents,"" Ph.D. dissertation (May 1998, University of 
+Texas, p. 226]
+
+Of course, the Dirksen Papers do not document completely the late 
+Senator's comments. For example, The Center that bears his name does not 
+have his testimony before committees. Their collection of Congressional 
+Records ends in 1965, omitting the last four years of Dirksen's life and 
+career – he might have employed the phrase only late, although witnesses 
+claim he said it throughout his career. Dirksen's campaign speeches 
+tended not to produce transcripts, only sketchy notes or abbreviated 
+newspaper accounts. Dirksen also held center stage before the video age, 
+meaning that many remarks, particularly those in campaigns, escaped 
+capture.
+
+Bottom line: the late Senate Minority Leader certainly would have 
+endorsed the meaning behind the phrase, but it is questionable that he 
+ever coined it.
+
+ 
+
+ 
+---
+My permanent email address is khare@alumni.caltech.edu
+
+
+",ham,0.0,0.0028873917228103944,0.0009624639076034649,0.0,0.00031575623618566466,1.0333333333333334
+017f0817d4c92951,"Subject: Newsletter Coach'Invest - Septembre 2002
+
+NEWSLETTER COACHINVEST  SEPTEMBRE 2002
+
+CoachInvest, laccompagnateur des jeunes entreprises
+www.coachinvest.com ou 3615 COACHINVEST (0.34 Euros/min)
+
+
+
+DES NOUVELLES DE COACHINVEST.
+
+1- Lancement réussi pour Coach'Invest Interactive qui décroche ses premiers contrats.
+
+Coach'Invest Interactive accompagne les entreprises dans la création, le développement, l'optimisation et la gestion au quotidien de leur site Internet.
+Coach'Invest Interactive propose à ses clients de nombreux services afin de les aider à concevoir et à mettre en place leur stratégie Internet.
+Contact : Hugo BEAULIEU ; Tél : 01 56 77 01 20 / 06 81 57 85 47; E-mail : webmaster@coachinvest.com 
+Pour en savoir plus : http://www.coachinvest.com/entrepreneur/coach_interactive.html 
+
+
+
+2- Coach'Invest a investi dans deux nouvelles entreprises :
+
+Inqual :
+INQUAL est une société créée en janvier 2001 par 3 ingénieurs issus de lENST et 1 cadre commercial expérimenté. Léquipe est aujourdhui composée de 12 personnes. Inqual est soutenu par lANVAR et a été récompensé pour ses contributions à linnovation par divers prix nationaux, dont le premier prix du concours Allègre.  Experte dans les architectures Internet, léquipe dInqual  maîtrise les conceptualisations de haut niveau (UML) et les serveurs dapplications, notamment ZOPE. INQUAL construit une offre au service des collectivités locales en proposant le premier « SIIC » (Système dInformation Inter-Communal »). Ce système apporte une gamme complète doutils permettant lutilisation professionnelle de fonctionnalités Internet, Intranet et Extranet, sans connaissances informatiques. La première brique métier de ce « SIIC » est un outil dautomatisation de publication pluri-média du Bulletin dInformations Municipales (BIM). Le logiciel LEBIM permet déditer et de modifier, 
+ en ligne et en temps réel linformation pratique de la collectivité locale. Des outils intégrés permettent de générer automatiquement le site Internet dynamique de la commune. Le site ainsi développé est mis à jour automatiquement et modifiable sans connaissances informatiques, par la commune elle-même.                     Contact : Joseph OULHEN ; Tél : 02 98 02 03 61 ; E-mail : joseph.oulhen@inqual.com 
+Pour en savoir plus : http://www.coachinvest.com/startup/startup33.html
+
+Sir Assurances :
+Créée en 1994, la société Sir Assurances est le premier courtier dassurances spécialisé sur le marché des entreprises nouvelles. Sir Assurances a développé le portail www.newbizassur.com pour proposer aux entreprises nouvelles une large gamme de services et de produits dassurance répondant à lensemble de leurs besoins. La société commercialise sa plateforme technologique en marque blanche et/ou en co-branding auprès des principaux acteurs de lInternet en France et en Europe.
+Contact : Jean-Eudes LEBAUPIN ; Tél : 01 40 20 47 24 ; E-mail : jel@newbizassur.com   
+Pour en savoir plus :  http://www.coachinvest.com/startup/startup34.html
+
+
+3 - CoachInvest soutient activement deux événements majeurs en faveur du développement de lentrepreneuriat en France :
+Le lancement de lannuaire des investisseurs régionaux
+Les journées Plug and Start (un événement de la Technopole de lAube en Champagne).
+
+
+ Annuaire des Investisseurs Régionaux 2002 : 
+Pour répondre aux besoins de financement des entreprises, lAnnuaire des Investisseurs Régionaux recense les différents acteurs du financement et de laccompagnement des entreprises dans chaque région.
+Vous êtes chef dentreprise ou décidé à exercer votre talent dentrepreneur, avec lAnnuaire des Investisseurs Régionaux, vous identifierez rapidement les solutions de financement diversifiées et adaptées aux besoins de votre entreprise. Cet annuaire est un outil de travail unique et indispensable pour lentrepreneur.
+Pour en savoir plus ou pour commander lAnnuaire des Investisseurs Régionaux, contactez Virginie GOUPY par téléphone au 03 20 27 18 84 ou par mail : epr@vigiecom.net 
+
+ Journées Plug and Start (8, 9 et 10 octobre 2002) : 
+La Technopole de lAube en Champagne (Troyes) innove avec le lancement les 8, 9 et 10 octobre prochains des Journées Plug and Start destinées aux futurs créateurs dentreprises innovantes à caractère technologique ou scientifique. Avant même son arrivée à Troyes, chaque créateur bénéficie dune première analyse de son projet en toute confidentialité. Il a le droit à un tuteur (dirigeant dentreprise) pour laccompagner tout au long de son parcours. Un parrain est sélectionné pour lui parmi les 150 experts constituants le cercle privilégié de la Technopole de lAube. Conseils personnalisés, alternance de travaux individuels et dateliers collectifs, expériences des intervenants, mise à disposition dun espace de travail équipé, disponibilité de toute une équipe, mais aussi convivialité de la Technopole et plaisirs de la ville de Troyes  Plug and Start sest donné les moyens de réussir et de faire réussir les créateurs. A lissu des journées Plug and Start, les porteurs de pro
+ jets pourront être mis en contact avec le réseau de capital risque de la Technopole de lAube. Par ailleurs, ils pourront également participer à un forum des capitaux où ils rencontreront de nombreux investisseurs.
+Pour en savoir plus et vous inscrire, contactez Michaël NOBLOT au 03 25 83 10 10 ou par e-mail : m.noblot@technopole-aube.fr 
+
+  
+
+DES NOUVELLES DE NOS PARTICIPATIONS.
+
+Café & Co : 
+Café & Co propose aux futurs gestionnaires indépendants de parcs de distributeurs automatiques de boissons l'ensemble des services tels que : solutions de financement, emplacements, formation et accompagnement, gestion, ... pour favoriser leur réussite d'entrepreneur individuel. 
+Vous pouvez également participer au développement de Café & Co en bénéficiant de l'installation gratuite d'un distributeur automatique de boissons chaudes dans vos locaux. 
+Contact : Nicolas BOUGON ; Tél : 06 60 41 35 14 ; E-mail : nbougon@noos.fr 
+
+Carlogo :
+La société Carlogo propose aux annonceurs de nouvelles solutions d'affichage mobile à l'efficacité prouvée (étude Ipsos) dont CARLOGO PUBLICITE qui permet aux automobilistes de gagner de l'argent (en louant un espace publicitaire sur leur voiture, les conducteurs sont rémunérés chaque mois).
+Après une campagne nationale pour le Crédit Foncier et des opérations pendant l'été pour le Club Med, Galderma ou Aujourd'hui en France sur le Tour de France, de nouvelles campagnes auront lieu dès la rentrée.
+Contact : Olivier MASCHINO ; Tél : 01 46 42 43 02 ; E-mail : olivier.maschino@carlogo.com 
+Pour en savoir plus : http://www.coachinvest.com/startup/startup20.html 
+
+France Actionnaire :
+Linformation sur les PME PMI cotées en bourse (entre 1 million et 1 milliard dEuros de capitalisation boursière) vous intéresse ? Vous voulez connaître vos concurrents cotés, leur valorisation, découvrir un secteur dactivité ?
+Sur www.france-actionnaire.com vous trouverez des analyses financières, des profils complets sur lactivité des sociétés et leurs concurrents, des ratios, des outils de comparaison.  Un outil révolutionnaire déjà utilisé par un grand nombre dentreprises, danalystes financiers, de gérants, et dinvestisseurs pour enfin avoir de linformation de qualité sur toutes les valeurs moyennes. 
+Nous vous proposons 2 offres et 2 modes daccès : 
+-	offre expert : paiement à la minute de consommation ou abonnement 
+-	offre premium : abonnement uniquement 
+
+Abonnés à la newsletter de CoachInvest, profitez dune réduction de 30% sur les abonnements dune durée de 6 mois ou plus en donnant le mot de passe : CoachInvest.
+Contact : Sébastien FAIJEAN ; Tél : 01 48 01 87 27; E-mail :  contact@france-actionnaire.com   
+Pour en savoir plus : http://www.coachinvest.com/startup/startup08.html 
+
+Labelium :
+Labelium , 1er cabinet d'audit de sites Internet en France , vous propose de faire un devis gratuit d'intervention  pour votre site Internet. Le métier de Labelium est de constater via un audit les forces et les faiblesses des sites et de recueillir via une grille dévaluation et selon 400 critères les éléments damélioration possibles. Puis, nous catalysons lensemble des points damélioration identifiés et rédigeons des recommandations stratégiques permettant au site daccroître la qualité de  ses prestations.  A la suite de laudit et des recommandations , nous vous proposons des missions de soutien récurrentes garantissant à votre site un niveau de performance optimal dans le temps. 
+ Contact : Thierry HERRMANN ; Tél : 06 08 77 77 13; E-mail : info@labelium.com
+Pour en savoir plus : http://www.coachinvest.com/startup/startup28.html 
+
+Le Manoir du Grand Vignoble : 
+Le Manoir du Grand Vignoble, demeure du XVIIème siècle situé à 40 kilomètres de Bergerac offre 10% de réduction sur les chambres (hors juillet-août) aux lecteurs de la newsletter de CoachInvest. Les 44 chambres et suites sont spacieuses et souvrent sur les forêts avoisinantes. Au restaurant ou sous les tonnelles de la terrasse, la cuisine proposée est à limage de celle quévoque le mot Périgord, elle est généreuse et gourmande, axée sur les produits du terroir sans négliger pour cela linnovation.
+Contact : Denis PETE ; Tél : 05 53 24 23 18 ; E-mail : GRAND.VIGNOBLE@wanadoo.fr 
+Pour en savoir plus : http://www.coachinvest.com/startup/startup25.html   
+
+Netagis :
+NETAGIS vient de conclure un nouveau contrat en Gestion de Patrimoine avec les Mutuelles de Loire-Atlantique. La société va gérer les plans des différents bâtiments de la Mutuelle sur sa plateforme ActiGIS en version Patrimoine. Le contrat porte sur une dizaine de bâtiments représentant plusieurs milliers de mètre-carrés.
+Parallèlement, NETAGIS annonce la sortie de ActiGIS Industrie en septembre destiné à la gestion des plans de sites industriels pour apporter une réelle assistance à la prise de décision et à la maîtrise des risques industriels et environnementaux.
+Le programme de développement R&D de NETAGIS bénéficie depuis le mois de juillet de l' appui de l'ANVAR.
+Contact : Patrick JULIEN ; Tél : 02 51 11 12 14  ; E-mail : patrick.julien@netagis.com  
+Pour en savoir plus : http://www.coachinvest.com/startup/startup21.html 
+
+
+
+QUE VOUS SOYEZ 
+-	ENTREPRENEUR (PORTEUR DE PROJET, DIRIGEANT DE START-UP, PATRON DE PME),
+-	PARTENAIRE POTENTIEL DE COACHINVEST (PRESTATAIRE LOCAL, ENTREPRISE NATIONALE, INSTITUTIONNEL, ASSOCIATION)
+NHESITEZ PAS A NOUS CONTACTER SI VOUS AVEZ ENVIE QUE LON TRAVAILLE ENSEMBLE.
+
+
+Si vous souhaitez en savoir plus sur CoachInvest, vous pouvez nous retrouver sur www.coachinvest.com 
+
+Retrouvez sur le minitel, code 3615 COACHINVEST (0.34 Euros/min), tous les documents juridiques dont vous avez besoin dans le cadre de votre entreprise. 
+
+
+Thomas Legrain
+PDG CoachInvest
+info@coachinvest.com
+
+
+------------------------------------------------------------------------------
+
+
+Pour vous désinscrire, rendez-vous à l'adresse suivante :
+http://www.coachinvest.com/Newsletter_commune/ml.php?type=desinscription&addr=freebsd-stable@freebsd.org&hash=c96285ccb37d419079d79ce22254cb66
+
+
+To Unsubscribe: send mail to majordomo@FreeBSD.org
+with ""unsubscribe freebsd-stable"" in the body of the message
+
+",spam,0.0,0.0,0.0,0.0,0.0,2.2781065088757395
+916c72d37d37fe42,"Subject: [SAdev] [Bug 1006] Spamassassin's build process makes packaging    unnecessarily difficult
+
+http://www.hughes-family.org/bugzilla/show_bug.cgi?id=1006
+
+
+
+
+
+------- Additional Comments From spamassassin-contrib@msquadrat.de  2002-10-03 13:57 -------
+A solution could be the preprocessor in combination with PM_FILTER -- if we 
+get the ExtUtils::MakeMaker versioning stuff right (see bug 1046). 
+
+
+
+------- You are receiving this mail because: -------
+You are the assignee for the bug, or are watching the assignee.
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by:ThinkGeek
+Welcome to geek heaven.
+http://thinkgeek.com/sf
+_______________________________________________
+Spamassassin-devel mailing list
+Spamassassin-devel@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-devel
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.3181818181818181
+aae5b57adee6d7e8,"Subject: Re: The absurdities of life.
+
+It was a kick when an apt manager kept mailing me a notice that I owed 
+them .08.  I just waited to see how many times they'd mail me a notice.  7 
+times by the time I left and paid them the .08.  Funny thing was, I lived 
+right behind the office where it was mailed from.  (:
+Cindy
+
+On Mon, 7 Oct 2002 bitbitch@magnesium.net wrote:
+
+> 
+> 
+> So I get a check from Pac Bell today (SBC as they're called now).
+> Turns out, they went to the trouble of printing out, signing, sealing
+> and stamping a check just to refund me for a whole $0.33.
+> 
+> They easily spent more than this just getting the materials together.
+> Why the hell do companies bother to do this crap?  I mean, isn't there
+> a bottom line in terms of cost effectiveness?  I don't think I missed
+> the .33, but I sure as hell would have appreciated lower rates in lieu
+> of being returned pennies.
+> 
+> I'm truly stuck on this though.  I don't know whether to frame the
+> check, burn it, or cash it in.  Maybe I should find a way to return to
+> sender, so they have to spend -more- money on giving me my .33 dues.
+> 
+> 
+> Does .33 even buy anything anymore?  Funny bit of it, is I couldn't
+> even make a phone call these days.
+> 
+> *boggled*
+> BB.
+> 
+> 
+
+-- 
+""I don't take no stocks in mathematics, anyway"" --Huckleberry Finn
+
+
+",ham,0.0,0.004149377593360996,0.0,0.0,0.0007513148009015778,1.0833333333333333
+39bce1f5161e0cfc,"Subject: RE: [Razor-users] Reducing impact from tons of email
+
+See your /etc/sendmail.cf file, there are a number of methods for limiting
+the number of concurrent sendmail processes, either by load average (I'm
+sure), or concurrency (I think)... I use sendmail anymore (I use qmail) but
+I'm sure that if you look in the config file, you will see what you need...
+
+Regards,
+Adam
+
+> -----Original Message-----
+> From: razor-users-admin@example.sourceforge.net
+> [mailto:razor-users-admin@lists.sourceforge.net]On Behalf Of Joe Berry
+> Sent: Sunday, 25 August 2002 1:44 PM
+> To: razor-users@example.sourceforge.net
+> Subject: [Razor-users] Reducing impact from tons of email
+>
+>
+> I'm not sure if this is really a razor problem/issue or a sendmail
+> problem. Here's the scenario... My mail server is a 150mhz PC funning
+> FreeBSD 4.4. Ordinarily, the machine is quite idle; it supports my
+> wife's web site with Apache server running on it and a few other
+> services (jabber, etc). Between the various members of our family, we
+> get a fair amount of email coming in (mailing lists, etc). On
+> occasion, our DSL-based ISP dies for a number of hours. When we get a
+> reconnection to the Internet, I get a huge flow of emails coming in
+> which are then filtered via razor. As a result, I will sometimes see
+> over 20+ sendmail processes running at the same time after such an
+> occasion. The machine is then REALLY slow.
+>
+> I noticed that my /etc/procmailrc file had had no arguments associated
+> with the call to razor-check. There was something in the log, though,
+> to make me suspicious that it was possibly not seeing all my razor
+> files. So I have just added ""-home /etc/razor"" as an argument. I
+> haven't had any down time since then so I cannot comment on whether
+> this change has sped up my razor processing a noticable amount. (This
+> paragraph may be an aside to my real problem, the first paragraph
+> above; but I thought I should be complete in my description.)
+>
+> At any rate, has anyone else suffered from a backlog of email
+> processing creating lots and lots of sendmail processes?  Is there,
+> perhaps, a way to limit the number of sendmail processes?
+>
+> Any ideas would be welcome.
+>
+> Thanks,
+> Joe
+> ---
+> Joe Berry
+> joe@topshot.com
+> AIM ""joe topshot""
+> Yahoo Msgr ""joetopshot""
+> jabber ""joetopshot@topshot.com""
+> Baltimore, MD
+>
+>
+>
+> -------------------------------------------------------
+> This sf.net email is sponsored by: OSDN - Tired of that same old
+> cell phone?  Get a new here for FREE!
+> https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+> _______________________________________________
+> Razor-users mailing list
+> Razor-users@lists.sourceforge.net
+> https://lists.sourceforge.net/lists/listinfo/razor-users
+>
+
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by: OSDN - Tired of that same old
+cell phone?  Get a new here for FREE!
+https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+_______________________________________________
+Razor-users mailing list
+Razor-users@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/razor-users
+
+",ham,0.004048582995951417,0.0,0.0,0.0006351222610352493,0.0,1.353658536585366
+8f6272eaef144851,"Subject: Guaranteed to lose 10-12 lbs in 30 days                          11.150
+
+1) Fight The Risk of Cancer!
+http://www.adclick.ws/p.cfm?o=315&s=pk007
+
+2) Slim Down - Guaranteed to lose 10-12 lbs in 30 days
+http://www.adclick.ws/p.cfm?o=249&s=pk007
+
+3) Get the Child Support You Deserve - Free Legal Advice
+http://www.adclick.ws/p.cfm?o=245&s=pk002
+
+4) Join the Web's Fastest Growing Singles Community
+http://www.adclick.ws/p.cfm?o=259&s=pk007
+
+5) Start Your Private Photo Album Online!
+http://www.adclick.ws/p.cfm?o=283&s=pk007
+
+Have a Wonderful Day,
+Offer Manager
+PrizeMama
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you wish to leave this list please use the link below.
+http://www.qves.com/trim/?zzzz@spamassassin.taint.org%7C17%7C308417
+
+",spam,0.00847457627118644,0.0,0.0,0.002785515320334262,0.0,1.0
+2d5d89669551e7d0,"Subject: Oh ma gawd - funny site of the day...
+
+This is for those that have interacted with D Winer
+
+""Dave's idea of love is fucking everyone else without so much as a reach
+around.  You're supposed to just shut up and take it.""
+
+http://winerlog.inspiredsites.net/
+
+===========
+
+Who's the real monster?
+
+
+It seems good Ol' Uncle Dave is once again trying to savage anyone that
+dares to disagree with him.  It seems Ben, Kevin and Bill are making too
+strong a case.  So here we Dave's attempt to fool you into thinking they're
+some sort of monsters, violent ones no less.
+
+Anyone who works with Hemenway or Kearney should be aware that these people
+are nothing less than monsters, who will stoop to any level to get their
+way.
+
+Yeah sure Dave, whatever you need to believe.
+
+The truth is these folks do a fine job of actually helping others and
+improving RSS in general.  Each with their own brand of attitude, to be
+sure, but they seem to be pretty focused on actually helping things move
+forward.  How is that being monstrous?
+
+Is Dave trying to slander their good names and thus poison the public's
+perception of them?  If you haven't already, contact them and ask them how
+they feel about this foolishness.
+
+
+ 9/18/02; 10:07:38 AM - Discuss
+
+
+
+Dave deflects what he can't take the time to understand
+
+
+It's really quite pitiful.  When normal people don't understand something
+they usually try learning about it.  They read up, ask questions and seek
+the help of those that understand it.  This before shooting their mouths off
+and looking like fools.
+
+What Dave does is just the opposite.
+
+Posts a link to something he doesn't understand
+Get's a bunch of e-mail from people who do understand it
+Derides the idea as being 'too much trouble' and blogs it.
+Expects others to do research for him
+Abuses anyone who tries to help him
+Pontificates, incorrectly, about only part of the issue
+Realizes he's been a fool but refuses to correct himself
+Plods forward pedantically trying to defend his idiocy
+Tries making the educated people look like fools.
+Sends private e-mails to them trying to scare them off.
+Exposes any private e-mail they write, out of context.
+Deflects and runs off to some new topic, repeats from #1
+His continued diatribes about RSS-1.0 and it's use of RDF reveal this to be
+true.  Dave doesn't get the idea of the semantic web.  He'd rather have you
+follow his stupid ideas than dare admit that the work of others is worth
+trying.
+
+One reader wrote to us with a good analogy.  ""It's like that movie The
+Poseidon Adventure.  Dave's like the purser ranting and raving that the
+passengers should follow him and march toward the bow.  I don't know about
+you but I'd rather be with the fat lady swimming toward the engine room.
+The ship's fucking sinking and I don't want to be following the idiot.""
+
+Dave's idea of love is fucking everyone else without so much as a reach
+around.  You're supposed to just shut up and take it.  After all, why would
+good ol' Uncle Dave want to hurt you?  It's all about love, right?  To hell
+with asking you if you want to get shafted.  And if you dare complain, he
+savages you.  Then he tries to make everyone think you're the one causing
+all the trouble.
+
+We've news for you Dave, we're wise to your tactics and we're talking
+amongst ourselves about it.  We're routing around you damaging behavoir.
+That's where we're coming from.
+
+If you have an example of how you've tried to help Dave, please drop us an
+e-mail about it.  We'll keep it strictly confidential of course.  Send it
+along to zaphod@egroups.com
+
+
+ 9/12/02; 10:13:11 AM - Discuss
+
+
+
+
+Trying to talk with Dave is like trying to wrestle a pig...
+
+
+The trouble is, you get dirty and the pig seems to like it.
+
+Another developer tries talking to Dave and discovers it's fundamentally
+impossible:
+
+His basic response was just that RDF was a joke and the Semantic Web
+developers are doing a terrible job.
+
+In the span of less than five minutes Dave makes such an ass of himself that
+people at other tables start whispering ""that guy is an idiot...""
+
+The zaphodim, however, are veteran pig wrestlers.  If you've got a similar
+tale from the mud pit, be sure to drop us a line at: zaphod@egroups.com.
+
+
+ 9/11/02; 2:17:58 PM - Discuss (1 response)
+
+
+
+
+Aha! Some backing down by the whining one?
+
+
+It would appear the 'dictator release' strategy that Dave's been trying on
+his crappy little set of RSS hacks is failing to gain support.
+
+I'm going to push back the caveat-removing on the 2.0 spec by 24 hours.
+Still have work to do on the sample file, I want to look into the RFC for
+time-date specs, and get started on the Radio implementation of 2.0. I have
+to prepare for Seybold tomorrow, and I want to a little memorial for 9-11. A
+busy few days for a guy still recovering. Also, it would be great if people
+who make content tools could review the 2.0 spec and see if there are any
+deal-stoppers.
+
+Hell yeah there are deal stoppers, like nobody wants it nor will they use
+it!
+
+The poor Radio customers!  The poor Salon blog users!  They're going to be
+dragged unwillingly into producing XML content that nobody will use!  So
+with the flip of his mighty upgrade switch Dave is going to turn all their
+content into totally unsupported garbage!!!
+
+Ya better speak up now folks otherwise your content is going to start
+getting rejected!
+
+Of course at the same time Dave tries to play the sympathy card.  What utter
+fucking nonsense.  This past weekend, the blogosphere excoriates him for his
+'blame America' bullshit.  Then the RSS community tells him to get stuffed
+with his dictator release of RSS.  Now he's trying to pretend we should be
+nice to him because he's still recovering?
+
+Uh, Dave, if you want to take a rest from the battle then stop picking
+fights.  We'll still kick your ass regardless.  That's what years of your
+abusing people has gotten you Dave.  No sympathy anymore, none whatsoever.
+
+
+ 9/11/02; 1:56:10 PM - Discuss
+
+
+
+
+Dave is Scary on 9/11
+
+Posted on Scripting News on 9/10/2002:
+
+
+Note: During the day tomorrow there will be no updates to Scripting News.
+I'll be in SF at Seybold, leading a discussion on Web Services for
+Publishing with people from Amazon, Apple, Google and Jake Savin of
+UserLand. I may be able to update my Radio weblog, but only if there's
+something really important to report. So best wishes for a happy and safe
+9-11.
+What kind of asshole wishes people a happy 9/11??!?!?!?!??!! Obviously
+someone who doesn't have a clue nor lost anyone in the tragedy.
+
+
+ 9/11/02; 7:56:06 AM - Discuss
+
+
+
+
+Yeow and we though we were harsh!
+
+
+Wow, apparently Dave's sticking his neck out quite far these days.  Craig
+Schamp practically keel-hauls him with this one.  He wraps it up with:
+
+The man seems to show over and over that he's nothing more than a whining
+buffoon
+
+Give that man an honorary Zaphodim membership card and secret decoder ring!
+
+Related links over at PhotoDude, Richard Bennett, Andrea Harris, Reid Stott,
+Jeff Jarvis, Ipse Dixit, and the Fat Guy.
+
+
+ 9/9/02; 12:29:45 PM - Discuss
+
+
+
+
+RSS 2.0: code name ""Hitler""
+
+
+If Dave tries to steamroll RSS 2.0 through without formal community
+consensus, here now we call it the ""Hitler"" release of 2.0.
+
+""No objections""?  No, he means ""No objections I choose to hear.""
+
+Dave is simply not listening.  People are objecting all over.
+
+
+
+
+ 9/6/02; 9:00:02 AM - Discuss
+
+
+
+
+Referral log funnies
+
+
+Every now and then we check the referral logs to see what's pointing back to
+us.  We sincerely apologize to the pool soul that used this search.
+
+
+ 9/5/02; 12:15:07 PM - Discuss
+
+
+
+
+Luserland Attempts to Trademark ""RSS""
+
+
+Dave has waxed and waned about intellectual property rights and how any
+BigCo that tries to patent its technology or methods is corrupt or morally
+bankrupt. Scripting News is full of examples.
+
+So we found it surprising, as did many others, when Luserland software tried
+to patent the term 'RSS' back in 2000. Here's the patent application:
+
+http://tarr.uspto.gov/servlet/tarr?regser=serial&entry=78025336
+
+This was apparently just between the start of the RSS 1.0 development
+efforts, and the publication of the specification. Winer knew about the RSS
+1.0 stuff - indeed, he complained about it bitterly at the time.
+
+Could Dave be any more transparent?!?!??!?!!!!!!!
+
+Since when has Dave been required to follow anything he says he wants others
+to do??? A good quote from before he filed the patent application:
+
+Tim O'Reilly says patents are OK, he's just against stupid patents. In the
+spirit of Touch of Grey, Tim man, patents are lock-in of the worst kind.
+There's no way to route around them.
+
+ 9/4/02; 6:06:51 AM - Discuss
+
+
+
+
+When's a Permalink not a Permalink?
+
+
+When Dave writes an item, then removes it!!!!!!!!!!! The permalink links to
+nothing at that point. So apparently the ""perma-"" part in permalink is
+permanent. For everyone except Dave. Too bad his little attempt at a
+definition fails to mention this...!!!!!!!!!
+
+
+ 9/2/02; 6:16:03 PM - Discuss
+
+
+
+
+
+
+
+",ham,0.0,0.0,0.0,0.005233270237167353,0.0,1.160919540229885
+1ba8409dad130a90,"Subject: Re: [SAtalk] SA very slow (hangs?) on this message, or is it just me?
+
+On Thursday 29 August 2002 16:39 CET Mike Burger wrote:
+> >[...]
+> > re-check I find it immediately:
+> > :0fw
+> > * < 250000
+> > | spamassassin -P
+> >
+> > Works perfectly now. Sorry for being such a pest! ;-)
+> >[...]
+>
+> I'm using SA via spamc/spamd, and a global /etc/procmail file.  I'm
+> wondering if this would also work in that fashion.
+
+spamc will skip every file bigger than 250k on it's own. It's got the 
+command line switch -s to change this value. But it doesn't hurt of course 
+to use the procmail limit.
+
+Malte
+
+-- 
+-- Coding is art.
+-- 
+
+
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by:ThinkGeek
+Welcome to geek heaven.
+http://thinkgeek.com/sf
+_______________________________________________
+Spamassassin-talk mailing list
+Spamassassin-talk@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+
+",ham,0.0,0.0,0.0,0.001034126163391934,0.0,1.1851851851851851
+f1c5361fd9a7091c,"Subject: Mortgage Rates Are Down.                    ptjti
+
+You can save thousands of dollars over the course of your loan with just a .25% drop in your rate! 
+
+""Now is the time to take advantage of falling interest rates!  There is no advantage in waiting any longer.""
+
+http://quotes.readyserve21.com/sure_quote/
+
+Refinance or consolidate high interest credit card debt into a low interest mortgage.  Mortgage interest is tax deductible, whereas credit card interest is not.
+
+Our nationwide network of lenders have hundreds of  different loan programs to fit your current situation:
+
+   *  Refinance
+
+   *  Second Mortgage
+
+   *  Debt Consolidation
+
+   *  Home Improvement
+
+   *  Purchase
+
+By clicking on the link below and filling out the form, the information you provide is instantly transmitted to our network of financial experts who will respond to your request with up to three offers.
+
+This service is 100% free to homeowners, and of course, without obligation.
+
+http://quotes.readyserve21.com/sure_quote/
+
+Click here to delete your address from future updates.
+http://quotes.readyserve21.com/sure_quote/rm/
+
+
+
+",spam,0.006024096385542169,0.0,0.0,0.0017857142857142857,0.0,1.0
+893beb9bebd4c74f,"Subject: Re: /home/dude
+
+Once upon a time, Axel wrote :
+
+> I am now relaxed again ;), and pass this info on. Probably Matthias Saou
+> himself is ""dude"", and some package has hardwired a path in his build
+> directory. It would be nice to find out which and fix it, but I am using
+> too many of the freshrpm suite to narrow it down.
+
+Indeed, my usual login is ""dude"" (and has been since long before ""The Big
+Lebowsky"" came out ;-)), and it seems the some programs wrongly hard code
+my home directory when being compiled :-(
+For instance :
+
+[dude@python dude]$ strings /usr/bin/gentoo | grep dude
+/home/dude/
+[dude@python dude]$ strings /usr/bin/xine | grep dude
+/home/dude/redhat/tmp/xine-root/usr/share/locale
+
+These should probably be considered bugs in the program's build process
+(especially for xine, look at that!), I'll report them upstream if/when I
+have some time.
+
+Thanks for noticing this!
+Matthias
+
+-- 
+Matthias Saou                                World Trade Center
+-------------                                Edificio Norte 4 Planta
+System and Network Engineer                  08039 Barcelona, Spain
+Electronic Group Interactive                 Phone : +34 936 00 23 23
+
+_______________________________________________
+RPM-List mailing list <RPM-List@freshrpms.net>
+http://lists.freshrpms.net/mailman/listinfo/rpm-list
+
+",ham,0.0,0.0,0.0,0.0014992503748125937,0.0014992503748125937,1.0975609756097562
+f1584ab1b08779fc,"Subject: Re: [SAdev] 2.40: ready for release?
+
+> It's this section of spamassassin.raw:
+>
+> <<<<<<< spamassassin.raw
+[...snip]       }
+> =3D=3D=3D=3D=3D=3D=3D
+[... snip ...]
+> >>>>>>> 1.68.2.10
+[...snip...]
+
+This is what cvs puts in when you modify the copy of the file on your disk
+and someone checks in a change and then you pull an update and cvs can't
+figure out how to merge your changes and the checked in changes. The lines
+between the <<<<<< and the ===== are in your file and the ones in the next
+section are what have been checked in. You must have not noticed the warning
+messages about conflicts that cvs gave you when you did the update, and the
+""C"" flag next to that file when cvs listed the files being pulled.
+
+ -- sidney
+
+
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by:ThinkGeek
+Welcome to geek heaven.
+http://thinkgeek.com/sf
+_______________________________________________
+Spamassassin-devel mailing list
+Spamassassin-devel@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-devel
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.0476190476190477
+f5f92b21067f2281,"Subject: Re: transcode build problem (was: RH 8 no DMA for DVD drive)
+
+Once upon a time, Alvie wrote :
+
+> This is only the last part of it.I used 'rpmbuild --rebuild --without
+> avifile transcode.0.6.1-fr2.src.rpm'.
+
+> af6_decore.cpp:305: 'WAVEFORMATEX'
+> is used as a type, but is not defined as a
+>    type.
+> af6_decore.cpp:306: parse error before `if'
+[...]
+
+All of these ""af6"" are related to avifile6 support :-/
+Normally, my 0.6.1-fr2 build of transcode defaults to *not* use avifile,
+but you can use ""--with avifile6"" to force recompiling against it.
+
+Do you have an old avifile installed maybe?
+Can you check the ""./configure ..."" line run at the beginning of the
+rebuild process to see if it does include the ""--without-avifile6"" option?
+
+Matthias
+
+-- 
+Clean custom Red Hat Linux rpm packages : http://freshrpms.net/
+Red Hat Linux release 7.3 (Valhalla) running Linux kernel 2.4.18-10acpi
+Load : 0.23 0.14 0.14
+
+_______________________________________________
+RPM-List mailing list <RPM-List@freshrpms.net>
+http://lists.freshrpms.net/mailman/listinfo/rpm-list
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.6896551724137931
+30bf1d45a9d62da3,"Subject: Re: Linking message [was: Re: Patch to complete a change...]
+
+
+
+>>>>> On Fri, 13 Sep 2002, ""Tony"" == Tony Nugent wrote:
+
+  Tony> (In essence: is there a way to mark a destination folder
+  Tony> for a message link or move without actually doing a move
+  Tony> or link, I couldn't see anything obvious).
+
+1) Right click on the folder label in the folder list
+
+2) In the main window, the ""+"" key puts you into a ""change 
+   folder"" mode (the first time you use it after starting exmh),
+   hit a second + and you go to ""set a target"" mode.  Type a few
+   characters of the folder name and hit space for autocomplete.
+
+--Hal
+
+How's spring shaping up ""down under""?
+
+
+
+_______________________________________________
+Exmh-users mailing list
+Exmh-users@redhat.com
+https://listman.redhat.com/mailman/listinfo/exmh-users
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.0
+229ec2c1ab1a9a42,"Subject: Get your own fountain of youth! HGH human growth hormone from 21st Century!17441
+
+As seen on NBC, CBS, CNN, and even Oprah! The health discovery that actuallyreverses aging 
+while burning fat, without dieting or exercise! This provendiscovery has even been reported 
+on by the New England Journal of Medicine.Forget aging and dieting forever! And it's 
+Guaranteed! 
+
+Click below to enter our web site:
+http://market.liangshanpo.com/hgh/
+
+Would you like to lose weight while you sleep!
+No dieting!
+No hunger pains!
+No Cravings!
+No strenuous exercise!
+Change your life forever! 
+
+100% GUARANTEED!
+
+1.Body Fat Loss 82% improvement.
+2.Wrinkle Reduction 61% improvement.
+3.Energy Level 84% improvement.
+4.Muscle Strength 88% improvement.
+5.Sexual Potency 75% improvement.
+6.Emotional Stability 67% improvement.
+7.Memory 62% improvement.
+
+Click below to enter our web site:
+http://market.liangshanpo.com/hgh/
+
+
+**************************************************
+If you want to get removed
+from our list please email at- affiliateoptout@btamail.net.cn
+(subject=remove ""your email"")
+**************************************************
+
+",spam,0.0,0.0,0.006756756756756757,0.011443661971830986,0.0,1.3953488372093024
+e31e74860d6dbdc2,"Subject: Re: [SAtalk] Re: patent on TMDA-like system
+
+On Tue, 27 Aug 2002 the voices made Robin Lynn Frank write:
+
+> > Tony Svanstrom, on SpamAssassin-talk, noted this US patent:
+> >
+> > http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=/netah
+> >tml/PTO/search-adv.html&r=62&f=G&l=50&d=PG01&s1=spam&p=2&OS=haiku&RS=spam
+
+> I took a bit of time to review what is on the above URL.  If I were a news
+> editor, the headline would be:
+>
+> ""Inventor"" from country that ignores patents and copyrights, seeks patent for
+> inventing the wheel!
+
+ The wheel is already patented in Australia; Melbourne man patents the wheel:
+
+ <URL: http://216.239.39.100/search?q=cache:usJnd2dwCDQC:www.theage.com.au/news/state/2001/07/02/FFX0ADFPLOC.html+%22patents+the+wheel%22&hl=en&lr=lang_en|lang_sv&ie=UTF-8 >
+
+
+ The sad news is that there seems to be a lot of patents (pending or not)
+that's for very basic/general ideas; it's the current form of ""domainnapping"",
+and it might turn uggly when people start trying to enfoce these patents.
+
+
+	/Tony
+-- 
+# Per scientiam ad libertatem! // Through knowledge towards freedom! #
+# Genom kunskap mot frihet! =*= (c) 1999-2002 tony@svanstrom.com =*= #
+
+     perl -e'print$_{$_} for sort%_=`lynx -dump svanstrom.com/t`'
+
+
+",ham,0.0,0.0,0.0,0.003167062549485352,0.001583531274742676,1.7555555555555555
+29aecdf1a25f62ed,"Subject: Mplayer
+
+Hey
+
+Since I upgraded to redhat8 mplayer -vo sdl isnt working for me
+It gives me black screen and I only hear sound.
+
+can anyone help me with this ?
+
+btw,
+also the source rpm specified that I can do --without libdv
+but it didn't work, worked for lirc and arts.
+
+Thanks,
+Roi
+
+
+
+
+_______________________________________________
+RPM-List mailing list <RPM-List@freshrpms.net>
+http://lists.freshrpms.net/mailman/listinfo/rpm-list
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.2857142857142858
+6673af9ec573528f,"Subject: Re: liberal defnitions
+
+
+In a message dated 9/24/2002 11:24:58 AM, jamesr@best.com writes:
+
+>This situation wouldn't have happened in the first place if California
+>didn't have economically insane regulations.  They created a regulatory
+>climate that facilitated this.  So yes, it is the product of
+>over-regulation.
+>
+
+Which is to say, if you reduce the argument to absurdity, that law causes 
+crime. 
+
+(Yes, I agree that badly written law can make life so frustrating that people 
+have little choice but to subvery it if they want to get anything done. This 
+is also true of corporate policies, and all other attempts to regulate 
+conduct by rules. Rules just don't work well when situations are fluid or 
+ambiguous. But I don't think that the misbehavior of energy companies in 
+California can properly be called well-intentioned lawbreaking by parties who 
+were trying to do the right thing but could do so only by falling afoul of 
+some technicality.)
+
+If you want to get to root causes, we should probably go to the slaying of 
+Abel by Cain. Perhaps we can figure out what went wrong then, and roll our 
+learning forward through history and create a FoRKtopia.
+
+Nonpartisanly, which is to say casting stones on all houses, whether 
+bicameral or unicameral, built on sand or on rock, to the left of them or to 
+the right of them, of glass or brick or twig or straw, 
+
+Tom
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.0833333333333333
+51a14bcfee16b7c1,"Subject: NYT discovers Linux in late 2002
+
+URL: http://boingboing.net/#85518715
+Date: Not supplied
+
+NYT op-ed piece about this newfangled OS called Linux and how it is developed 
+using something called the ""open source"" method. This is the paper to go to for 
+breaking news, folks. Link[1] Discuss[2] _(Thanks, Dave!)_
+
+[1] http://www.nytimes.com/2002/09/18/opinion/18WED2.html
+[2] http://www.quicktopic.com/16/H/VgggkvaadJKnu
+
+
+",ham,0.0,0.0,0.0,0.002331002331002331,0.0,1.5555555555555556
+182f0590841142c4,"Subject: Don't get caught by rising interest rates.
+
+Opportunity is knocking. Why?
+
+Because mortgage rates are rising.
+
+As a National Lender, not a broker, we can
+guarantee you the lowest possible rate on your
+home loan.
+
+Rates may well never be this low again. This is
+your chance to secure a better future. You could
+literally save enough money to buy that new car
+you've been wanting or to take that special
+vacation. Why pay more than you have to pay?
+
+We can guarantee you the best rate and the best
+deal possible for you. But only if you act now.
+
+This is a free service. No fees of any kind.
+ 
+You can easily determine if we can help you in
+just a few short minutes. We only provide
+information in terms so simple that anyone can
+understand them. We promise that you won't need
+an attorney to see the savings.
+ 
+We offer both first and second home loans and we
+will be happy to show you why your current loan
+is the best for you. 0r why you should replace
+it.
+
+Once again, there's no risk for you. None at all.
+
+Take two minutes and use the link(s) below that
+works for you. Let us show you how to get more
+for yourself and your family. Don't let
+opportunity pass you by. Take action now.
+
+<a href=""http://209.202.221.16/director.asp?id=1&target=http://211.167.74.101/mortg/"">Click_Here</a>
+
+http://209.202.221.16/director.asp?id=1&target=http://211.167.74.101/mortg/
+ 
+Sincerely,
+
+Chalres M. Gillette
+MortCorp, LLC
+
+olhfilghxvuyfkfqbviqgacyenuuufpyswymlajxucqhpojagplujpmovuiaphwlqkkstgipemliwuugqptjukjklbjlgxqmuogtiwhhdlhjhkbucvbyqvgfp
+
+__________________________________________________________________
+The NEW Netscape 7.0 browser is now available. Upgrade now! http://channels.netscape.com/ns/browsers/download.jsp 
+
+Get your own FREE, personal Netscape Mail account today at http://webmail.netscape.com/
+
+
+",spam,0.006920415224913495,0.0034602076124567475,0.0,0.0005494505494505495,0.0,1.1627906976744187
+464580359acd5d49,"Subject: Re: Secure Sofware Key
+
+Hi
+
+On Wed, 4 Sep 2002, Yannick Gingras wrote:
+
+> BTW thanks for all of you who provided interestiong insight.  I'm playing with 
+> gdb's dissassembler now but I don't think it's what a typical cracker would 
+> use.  Any hints on UNIX cracking tools ?
+
+There's also an 'objdump' program, and 'biew' hex viewer/disassembler. A good 
+starting point to search is http://www.freshmeat.net/
+
+However, cracking and reverse engineering tools are not so ubiquitous on UNIX as 
+they are on Windows platform for two main reasons:
+
+1. The main customers of commercial Unices (Solaris, HP-UX, Aix, SCO...) are 
+respectable companies. They are ready to pay big bucks for software they need: the reputation matters.
+
+2. Most software for free and open source Unices like Linux and xBSD (this 
+software often may be used on commercial unices as well) is, well, free and 
+open source.
+
+Regards
+/Artem
+
+-- 
+ Artem Frolov <frolov@ispras.ru>
+/------------------------------------------------------------------\
+ Software Engineer, System Administrator                       
+ Institute for System Programming, Russian Academy of Sciences     
+ Tel. +7 095 912-5317 (ext 4406), Cellular: +7 095 768-7067
+ C7 40 CA 41 2A 18 89 D6  29 45 DF 50 75 13 6D 7A  A4 87 2B 76
+\------------------------------------------------------------------/
+
+------------------------------------------------------------------
+Basic Definitions of Science:
+	If it's green or wiggles, it's biology.
+	If it stinks, it's chemistry.
+	If it doesn't work, it's physics.
+------------------------------------------------------------------
+
+
+
+
+",ham,0.009615384615384616,0.0,0.0,0.0,0.0,1.25
+a023b75ed00be9e1,"Subject: Iowa: ""There was frost outside this morning!""
+
+URL: http://scriptingnews.userland.com/backissues/2002/09/24#When:8:21:06AM
+Date: Tue, 24 Sep 2002 15:21:06 GMT
+
+Iowa[1]: ""There was frost outside this morning!""
+
+[1] http://iowa.weblogger.com/2002/09/24
+
+
+",ham,0.0,0.0,0.0,0.007633587786259542,0.0,1.4166666666666667
+567d14f25684cee2,"Subject: Cosmic crash of speeding jets tracked
+
+URL: http://www.newsisfree.com/click/-5,8553541,1440/
+Date: Not supplied
+
+A collision is seen from start to finish for the first time - it may provide 
+clues to how the Universe's largest single objects are formed
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.2857142857142858
+04248c842ff97823,"Subject: Re: asynchronous I/O (was Re: Gasp!)
+
+
+
+> Wrong, [VMS-like async io] makes a huge difference in even what I
+> consider small programs.
+
+So it sounds as if, to your thinking,
+most useful apps are also trivial. 
+Unless each key on my keyboard were
+(to the apps) distinct event sources,
+I can't think of any of my usual job
+mix that would need hundreds, or even
+tens, of async requests; perhaps you
+can explain how nontrivial apps will
+be compellingly useful? 
+
+> but it's still not built in, who knows when it will be. The point is it's
+> not portable in either case.
+
+Does that lack of portability imply it
+isn't generally useful?  (When it was
+apparent that TCP networks were useful,
+berkeley sockets could be found even
+on VMS and Win 3.1 boxen)
+
+Why would early Unix have run with the
+idea that, if one wishes to do multiple
+things at the same time, one can use a
+group of processes to do them?
+
+- they had Multics as a counterexample?
+
+- in the days of tiny memories and tapes,
+  people were more accustomed to writing
+  programs that didn't run entirely in a
+  single address space?
+
+- one is a great number for an interface,
+  as log(1) is 0, and specification can
+  be implicit?
+
+- some combination of the above?
+
+Now, as Hoare says:
+> There are two ways of constructing a software design.  One way is to make
+> it so simple that there are obviously no deficiencies and the other is to
+> make it so complicated that there are no obvious deficiencies.
+
+As programmers, we've been able to make
+our lives complicated for at least half
+a century; the hardware interrupt gives
+us the rope.
+
+Part of Dijkstra's inspiration for THE
+was the counterexample of IBM's multi-
+programmed boxes (were these the same
+ones that inspired Mythical Man Month?)
+and I suppose he would say the question
+is how not to make a mess of it -- how
+should we structure computations so if
+we try to do ten times as many things
+at the same time, reasoning about the
+resulting system is at most ten times
+more complex -- not one hundred, and
+certainly not three and a half million
+times more.
+
+Compared to that project, the prospect
+of writing a driver library for various
+vendors' aio implementations seems to
+be truly trivial.
+
+-Dave
+
+(Oracle, in their quest for portability,
+used to use raw disks for the database.
+This finessed the filesystem issue; did
+it also allow them to roll their own set
+of async drivers?)
+
+
+",ham,0.0,0.0,0.0,0.00041597337770382697,0.0,1.263157894736842
+1c0c307bc78acb0d,"Subject: Let us find the right mortgage lender for you      AFPE
+
+Dear Homeowner,
+ 
+Interest Rates are at their lowest point in 40 years!
+
+We help you find the best rate for your situation by
+matching your needs with hundreds of lenders!
+
+Home Improvement, Refinance, Second Mortgage,
+Home Equity Loans, and More! Even with less than
+perfect credit!
+
+This service is 100% FREE to home owners and new
+home buyers without any obligation. 
+
+Just fill out a quick, simple form and jump-start
+your future plans today!
+
+
+Visit http://61.145.116.186/user0201/index.asp?Afft=QM10
+
+
+
+
+
+
+To unsubscribe, please visit:
+
+http://61.145.116.186/light/watch.asp
+
+
+",spam,0.010101010101010102,0.0,0.0,0.007704160246533128,0.0,1.28
+d52481af2cae9d6f,"Subject: [ILUG] STOP THE MLM INSANITY
+
+Greetings! 
+
+You are receiving this letter because you have expressed an interest in receiving information about online business opportunities. If this is erroneous then please accept my most sincere apology. This is a one-time mailing, so no removal is necessary. 
+
+If you've been burned, betrayed, and back-stabbed by multi-level marketing, MLM, then please read this letter. It could be the most important one that has ever landed in your Inbox. 
+
+MULTI-LEVEL MARKETING IS A HUGE MISTAKE FOR MOST PEOPLE 
+
+MLM has failed to deliver on its promises for the past 50 years. The pursuit of the ""MLM Dream"" has cost hundreds of thousands of people their friends, their fortunes and their sacred honor. 
+The fact is that MLM is fatally flawed, meaning that it CANNOT work for most people. 
+The companies and the few who earn the big money in MLM are NOT going to tell you the real story. FINALLY, there is someone who has the courage to cut through the hype and lies and tell the TRUTH about MLM. 
+
+HERE'S GOOD NEWS 
+
+There IS an alternative to MLM that WORKS, and works BIG! If you haven't yet abandoned your dreams, then you need to see this. Earning the kind of income you've dreamed about is easier than you think! 
+
+With your permission, I'd like to send you a brief letter that will tell you WHY MLM doesn't work for most people and will then introduce you to something so new and refreshing that you'll wonder why you haven't heard of this before. 
+
+I promise that there will be NO unwanted follow up, NO sales pitch, no one will call you, and your email address will only be used to send you the information. Period. 
+
+To receive this free, life-changing information, simply click Reply, type ""Send Info"" in the Subject box and hit Send. I'll get the information to you within 24 hours. Just look for the words MLM WALL OF SHAME in your Inbox. 
+
+Cordially, 
+
+Mark R Sherman 
+
+P.S. Someone recently sent the letter to me and it has been the most eye-opening, financially beneficial information I have ever received. I honestly believe that you will feel the same way once you've read it. And it's FREE! 
+
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+",spam,0.004830917874396135,0.0024154589371980675,0.0,0.0017338534893801473,0.0,2.4
+c8b94646b466d88f,"Subject: Tired of paying big bucks for cable
+
+Tired of paying big bucks for satellite t.v.?
+
+THEN DONT!
+
+For as low as $97 you can buy the programming card that will
+give you all the channels.  YES ALL OF THEM, including pay channels
+and pay per view.  You will never have another satellite or cable bill
+again.  
+
+http://11.lspeedhost.net/zzzzcards/ads
+
+
+FOR AS LITTLE AS $97 YOU NOW GOT A WORKING UNBLOCKED RECEIVER WITH 
+ALL CHANNELS !!! 60+ movie channels 20+ PRON CHANNELS ,etc.. ALL THE 
+CHANNELS ARE UNLOCKED!!! INCLUDING ALL PAY PER VIEW AND EVENTS FOR 
+FREE!  FOR LIFE!
+
+http://11.lspeedhost.net/zzzzcards/ads
+
+
+5963HgYk7-980lnZG6754dLNm8-294DcnP4174Lcsd2-914QRTr7194Fyjl55
+
+
+",spam,0.009174311926605505,0.0,0.0,0.013138686131386862,0.00291970802919708,3.5
+e8622ab1f5f53257,"Subject: [ILUG] Here is the information you requested
+
+Are you interested in making some extra money on the internet?
+well have i got something for you. Last week i made $3500 ,I am offering you 5 yes 5 web sites that have already been made and are waiting for you to put up to make money with.  There is also a few videos that are included that tell you Exactly what you have to do to be successful. I am going to also Offer you the rights to the web pages and to 5 Ebooks that you can sell..  These Ebooks aren't just any Ebooks these are books on how to make money on the  internet.  I am selling this package deal for a short time only at the low price of $39.77 my friends all say that i am   Crazy.. The web site alone is worth over $1500 and its yours for only $39.77.  Each eBook you will receive is worth around $350.  my web page is. www.Home-Business-onthe-net.com . please come take a look. 
+if you have any questions please feel free to give me a email.
+if you'd like a Free Ebook just give me a email and ill  email you one ASAP.
+
+Sincerly 
+Your friend
+Keegan
+
+Click on the link below to remove yourself
+http://www.hotresponders.com/cgi-bin/varpro/r.cgi?id=keegan007&a=ilug@linux.ie
+
+AOL Users
+<a href=""http://www.hotresponders.com/cgi-bin/varpro/r.cgi?id=keegan007&a=ilug@linux.ie""> Remove Me</a>
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+
+",spam,0.007272727272727273,0.01090909090909091,0.007272727272727273,0.0,0.0033967391304347825,1.2162162162162162
+1e7b901a63477d06,"Subject: ADV: Internet marketing & communications; earn $100k/year... uleio
+
+HELLO...By reading the short Summary just below, you
+will see how you can learn new skills in communication,
+do a direct marketing program on the internet, and at the
+same time, earn $100,000 or more to enable you to
+CHANGE YOUR LIFE!!!
+
+************SUMMARY***************************
+
+Just read this Summary, follow the actions that it advises,
+and start earning some serious money.  You will learn new
+skills in communications and how to market on the internet.
+What a Deal!  Your total cash investment is just $50.00.
+
+Step 1.  If this is the first time you have seen this message,
+and you have not joined in this program before, then
+take out five US$10.00 bills (total $50 investment), and mail
+out $10.00 each to the following people to purchase five
+Guides on communications.  For each Guide that you will
+be ordering and buying, write out on a sheet of plain white
+paper, your own name, address, and YOUR OWN EMAIL
+ADDRESS, and the number and name of the Guide that
+you are buying.  Then fold the paper, put the $10.00 bill
+inside the sheet of paper, insert the paper and $10.00 bill
+into an envelope, address the envelope with the name and
+address of the person whose name is shown under each
+Guide below, and mail the envelope by first class or air
+mail. Be sure to put enough postage stamps on the
+envelopes.  No need to send by registered mail.
+
+LIST OF FIVE NAMES****************************
+________________________________________________
+
+GUIDE# 1: ""How to be A More Effective Public Speaker""
+Order Guide #1 for US$10.00 CASH from: (In addition to
+Guide #1, you will receive a valuable marketing Guide
+""A Million Bucks From the Internet"", free of charge)
+
+Derrick Nguyen	
+9530 Whitmore St	
+El Monte, CA 91733	
+USA
+________________________________________________
+
+GUIDE # 2: ""How to Give a Business Presentation""
+Order Guide # 2 for US$10.00 CASH from:
+
+Tim Fai
+GPO Box 260
+Macau (via Hong Kong)
+________________________________________________
+
+GUIDE# 3: ""How to Write More Effectively""
+Order Guide # 3 for US$10.00 CASH from:
+
+Luis Pastor
+Apartado 81
+48080 Bilbao
+Spain
+________________________________________________
+
+GUIDE # 4: ""What to do at a Social Function""
+Order Guide # 4 for US$10.00 CASH from:
+
+Chester Waldvogel
+11 Chestnut Way
+Berlin, MD 21811
+USA
+________________________________________________
+
+GUIDE # 5: ""How To Sharpen Your Mind""
+Order Guide # 5 for US$10.00 CASH from:
+
+J. Siden
+Krondikesvagen 54 A
+83147 Ostersund
+Sweden
+________________________________________________
+END OF LIST OF FIVE NAMES*********************
+
+Step 2.  These Guides will be emailed to you.  Save these
+Guides on your computer's hard disk as other people will be
+ordering these Guides from you, paying you for them and
+you will need to email the Guides to the new buyers.
+
+Step 3.  From the list of names above, delete the name and
+address of the person shown under GUIDE#5, and replace that
+slot with the name and address of the person from GUIDE #4's
+slot.  Be sure to copy the name and address exactly as shown.
+Check the address again.
+
+Step 4.  Delete name and address under GUIDE #4, and
+replace with the name and address from GUIDE #3's slot.
+
+Step 5.  Delete name and address under GUIDE #3, and
+replace with the name and address from  GUIDE#2's slot.
+
+Step 6.  Delete name and address under GUIDE #2, and
+replace with the name and address from GUIDE #1's slot.
+
+Step 7.  Delete name and address under GUIDE #1, and
+replace with YOUR OWN NAME AND ADDRESS. This
+step is how your own name and address is entered into the
+list of names to receive orders for the Guides. Eventually,
+your own name will go down the list of names until you have
+reached GUIDE #5, and then be dropped from the list. The
+key point is that the number of people ordering Guides from
+you will grow larger the lower down the list your name goes.
+
+Step 8.  Once you have completed this new list, send out
+this new email (which shows your name under GUIDE #1) to
+as many email addresses as possible, as many as 100,000
+emails or even more.  The greater the number of mailings
+you make, potentially the greater the number of people who
+will order the GUIDE #1 from you.  These people will then
+make new emails to send out to their addresses with the email
+showing your name under GUIDE #2, and so on.
+
+This is all you need to do.  If you wish to read the rest of
+this email message, then do so.  If not, just do the 8 steps
+shown above. Remember, the key point is to send out as
+many emails as possible in step 8, and to encourage and help
+those who purchase the Guides from you to send out
+emails of their own.
+
+Do NOT change anything other than what is instructed.
+Because if you do, it will not work for you.  Your immediate
+reaction might be: Why not replace all the names on the list
+with the names of your spouse, kids, relatives, and friends.
+That might seem to you like a clever move because new
+buyers will be sending their money to these people.  But
+that move is the exact opposite of what is to your benefit.
+What will benefit you most is having people who will send
+out emails, seek new buyers, and provide assistance to new
+buyers. If the people you slip into that list aren't going to
+be sending new emails, you're only hurting yourself by
+effectively closing down the program with your name on
+top of the list of the names that you have inserted.  There
+wouldn't be new buyers coming in. So, your sly maneuver
+will gain you exactly zero!  Furthermore, if you have done
+the work, and your name has worked its way to further
+down the list, by then you deserve the rewards and
+earnings from that effort, and it would be unethical for
+anyone to remove your name for whatever reason.  Don't
+do it to others. Remember, honesty reaps the reward!!!
+
+You may have a concern that after sending the total $50 to
+the five people on the list that one of the people will just
+take your money, and not send you the Guide.  Well, rest
+assured.  As we said above, it's to our benefit to have you
+as a satisfied buyer who will actively send out emails to find
+new buyers.  So don't think the people on the list will try to
+cheat you or to ""stiff"" you for $10.00.  The people on the list
+would rather have you working hard because your effort will
+benefit them as well as you.  Later on, when other buyers send
+you the order to buy the Guides, fulfill your end of the deal
+by sending the ordered Guide to the buyer.  Don't cheat.
+Provide efficient and honest service and we will all benefit.
+******END OF SUMMARY************************
+
+=======REST OF MESSAGE======================
+
+With easy-to-use email tools and opt-in email, success in
+this business is now well within the capabilities of ordinary
+people who may not have done any internet marketing before.
+And the earnings potential is staggering!
+
+READ THIS EMAIL TO THE END! -
+follow what it says  - and you will not worry whether a
+RECESSION is coming or not, or whether or not you can
+afford to buy that new car or home that you have been
+looking for.  Yes, I know what you are thinking. I never
+responded to one of these before either. One day though,
+something made me feel: ""You use $50 going to a movie
+for 2 hours with your spouse, friend, or child, plus a simple
+meat at a restaurant.  Why the heck not?""  No matter where
+you believe those ""feelings"" came from, I thank every day
+that feeling came over me.
+
+I cannot imagine where I would be or what I would be doing
+had I not. Read on. It works.  And when you read the Guides,
+Youll learn how to become a more effective communicator.
+What can be better?  A way to improve your self-image and
+confidence and at the same time have the potential to recover
+your investment and make some good money: making over
+half a million dollars every 4 to 5 months from your home.
+If you work on this program, you will learn a lot about direct
+marketing on the internet.  If you believe direct marketing
+via the internet is the way sales and marketing will be done
+in the future, then the experience you will gain here could
+be a real boost in your work career, possibly even providing
+a new career for you.
+
+= PRINT THIS MESSAGE FOR FUTURE REFERENCE =
+
+If you want to make serious money, read this message until
+you understand it completely and feel confident to follow
+through on what it advises.
+
+FOLLOW THE SIMPLE INSTRUCTION ABOVE AND
+YOUR FINANCIAL DREAMS CAN COME TRUE!
+
+Remember, this method has been tested, and if you alter it,
+it will NOT work!  This IS a legitimate BUSINESS. You
+are offering a product for sale to a buyer. Treat it as such
+and you can see money coming to you  in a reasonable period
+of time, depending on the collective efforts of yourself and
+the others on the list of five.
+
+===========================================
+*** Take this entire email, with the modified list of names,
+and save it on your computer. DO NOT MAKE ANY OTHER
+CHANGES.  There are 2 methods to get this venture going:
+
+METHOD # 1: BY SENDING BULK EMAIL LEGALLY
+===========================================
+
+Let's say that you start small, to see how it goes, and that
+you and those involved send out only 5,000 emails each.
+Let's also assume that the mailing receives only a 0.1%
+(1/10 of 1%) response (the response could be much better
+but let's just say it is only 0.1%). Also many people will
+send out hundreds of thousands of emails instead of only
+5,000 each.
+
+Out of your 5,000 emails and a 0.1% response, that is only
+5 orders for Guide # 1. Those 5 people who responded also
+send out 5,000 emails each for a total of 25,000. Out of
+those 25,000 emails only 0.1% responded with orders.
+That's 25 people who responded and ordered Guide # 2.
+
+Those 25 people mail out 5,000 e-mails each for a total of
+125,000 emails. The 0.1% response to that is 125 orders
+for Guide # 3. Those 125 people send 5,000 emails each
+for a total of 625,000 emails sent out. The 0.1% response
+is 625 orders for Guide # 4.
+
+Those 625 people send out 5,000 emails each for a total
+of 3,125,000 emails. The 0.1% response to that is  3,125
+orders for Guide # 5, or $31,250 at $10 per Guide.  This
+may seem a small amount to you, but remember we used a
+very low response rate with a small number of emails being
+sent out.  See what happens if you can get the response rate
+up just slightly.
+
+If Response Rate is 0.1%, income from Guides #1 - #5 is:
+$50+250+1,250+6,250+31,250 = $39,050 (as above)
+
+If Response Rate is 0.15%, income from Guides #1 - #5 is:
+$75+560+4,220+31,640+237,300 = $273,795
+
+If Response Rate is 0.2%, income from Guides #1 - #5 is:
+$100+1,000+10,000+100,000+1,000,000 = $1,111,100
+
+Dare to think for a moment what would happen if everyone
+or half or even one 4th of those people mailed 100,000
+emails each or more?  From the example above, you can see
+the power of leveraging, that is, how much greater is the
+amount of money from a small increase in the response rate.
+
+There are over 200 million people on the internet worldwide
+and counting, with thousands more coming online every day.
+
+METHOD # 2: PLACING FREE ADS ON THE INTERNET
+===========================================
+
+Advertising on the net is very, very inexpensive and there are
+Many FREE places to advertise. Placing a lot of free ads on
+the internet will get a response. We strongly suggest you start
+with  Method # 1 and add METHOD # 2 as you go along.
+For every $10 you receive, all you must do is email the
+Guide the buyer ordered. Always provide same day service.
+
+The people you buy these Guides from will assist and advise
+you how to get the large number of email addresses that
+you need to send the new email containing your name and
+address.  In return, when others buy the Guides from you,
+you also should help those buyers to resell the Guides to
+their email addresses.  This will benefit you because your
+name would be further down the list, and their new buyers
+will buy from you.  This is no different than ""customer
+service"" in the retail or the  ""bricks and mortars"" business.
+
+===========AVAILABLE GUIDES ==============
+The reason for the ""cash"" is not because this is illegal or
+somehow  ""wrong"". It is simply about time. Time for checks
+or credit cards to be cleared or approved, etc. Concealing it
+is simply so no one can SEE there is money in the envelope
+and steal it before it gets to you.
+
+ORDER EACH GUIDE BY ITS NUMBER & NAME ONLY.
+Always send a single $10 bill (U.S. CURRENCY) for each
+Guide.  Checks NOT accepted. Make sure the cash is hidden
+by wrapping it in at least 2 sheets of paper. On one of
+those sheets of paper, write the NUMBER & the NAME
+of the Guide you are ordering, YOUR EMAIL ADDRESS
+and your name and postal address.  Be sure to address the
+envelope correctly and put the proper amount of stamps to
+mail the envelope.
+
+PLACE YOUR ORDER FOR THESE GUIDES NOW
+FROM THE NAME AND ADDRESS LIST SHOWN
+AT THE BEGINNING OF THIS EMAIL
+________________________________________________
+YOUR SUCCESS GUIDELINES
+
+=== If you do not receive at least 10 orders for GUIDE #1
+within 2 weeks, continue sending emails until you do.
+
+=== Two to three weeks after you receive 10 orders,
+you should receive 100 orders or more for GUIDE #2. If
+not, continue advertising or sending emails until you do.
+
+Once you have received 100 or more orders for GUIDE # 2,
+YOU CAN SEE THE PROGRAM IS WORKING, and
+cash should continue coming in! THIS IS IMPORTANT
+TO REMEMBER:  Continue to assist new buyers with advice
+and instruction on how to send out more emails. You can
+KEEP TRACK of progress by noting which guides people
+are ordering from you. IF YOU WANT TO GENERATE
+MORE INCOME SEND ANOTHER BATCH OF EMAILS
+AND START THE WHOLE PROCESS AGAIN.
+There is NO LIMIT to the income you can generate !!!
+===========================================
+A NOTE FROM THE ORIGINATOR OF THIS PROGRAM:
+You have just received information that can give you
+financial freedom to really change your life, but I don't
+wish to kid you:  This requires A BIT OF EFFORT. You
+can make more money in the next few weeks and months
+than you have ever imagined. Follow the program
+EXACTLY AS INSTRUCTED.
+
+Remember to email the revised copy of this email after you
+have put your name and address in GUIDE#1 and moved
+others to #2 .....# 5 slots as instructed above. One of the
+people you send this to may send out 100,000 or more
+emails and your name will be on every one of them.
+Remember, the more you send out the more potential
+buyers you will reach.
+
+IT IS UP TO YOU!  ORDER THE GUIDES NOW AND
+EMBARK ON THE ROAD TO FINANCIAL SECURITY!
+
+Upon your purchase of any GUIDE #1 through #5, the
+Copyright owner assigns to you two important rights:
+(1) The right to resell and to distribute via the internet the
+GUIDE that you have purchased, and (2) the right to assign
+to your buyer of the GUIDE, the further right for your buyer
+to resell that GUIDE.  Included in your purchase of Guide #1
+is a valuable report on how to market on the Internet. It's
+free of charge and will give you the tools you need.
+
+The right to print any of the material contained in the GUIDES
+is reserved exclusively for the copyright owner.  Your right to
+resell and to distribute copies of the GUIDE applies only to the
+internet and/or world wide web via electronic distribution.
+YOU MAY NOT PRINT OUT THE GUIDES TO SELL OR
+DISTRIBUTE IN ANY WAY.  You may print a copy of the
+Guides for your own personal use to enhance your
+communication skills.
+
+===========================================
+
+* This message is not intended for residents of localities that
+have legal ordinances prohibiting engaging in such programs.
+Screening of addresses has been done to the best of our ability.
+
+This message is only being sent once to recipients and thus
+is no need to remove your email address from our mailing
+list.  You will not be receiving further emails with this message.
+
+iangxsifpkvgobwlxwhvvxfs
+
+",spam,0.001885369532428356,0.003393665158371041,0.0007541478129713424,0.0011328592107747498,0.0016363521933413054,2.629126213592233
+1c5cc33de19b20c6,"Subject: Re: Electric car an Edsel...
+
+Ah, THIS is the car i've seen on discovery channel, but url via a lurker.
+
+http://arivettracing.com/battery.html
+
+- Adam L. ""Duncan"" Beberg
+  http://www.mithral.com/~beberg/
+  beberg@mithral.com
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.3
+102c6778e128a221,"Subject: Garden Ornaments | ppu
+
+Our delightful garden ornaments combine the finest craftsmanship in woodworking with the lastest technology in paints and hardware:
+
+http://www.gardenornaments.adv@hellerwhirligigs.com/
+
+We are the world's biggest whirligig maker.
+
+
+Sincerely,
+
+Studio T. Inc., USA
+The Home of Heller Whirligigs
+
+
+
+
+Remove:
+
+E-mail based commercial communication avoids unnecessary spending on catalogs and paper, and helps to preserve valuable natural resources such as forests and oil. We do not wish to share our valuable information about whirligigs with those who are not interested. Should you not wish to receive information from us in the future, please click on  the following removal link:
+
+http://www.gardenornaments.adv@hellerwhirligigs.com/remove.html
+
+Even though our database cleansing might be subject to delay or error, we will remove your e-mail address permanently from our database. However, please realize that removal from our database does not guarantee that your e-mail address will be deleted from the many other e-mail marketers who construct databases themselves by harvesting from web sites, or by buying any of the thousands of lists of e-mail addresses that are openly for sale on the internet.
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+sgossqweylpfdxongtxllytjnmkamyrwrascyl
+
+
+",spam,0.0,0.0,0.015384615384615385,0.0,0.0,1.1
+f021d03849d7ccf5,"Subject: [Razor-users] Where can i find a positif mail(spam) for test
+
+Bonjour,
+
+   I'm writting a Python script, in order to use Razor with Qmail.
+   The script is finish, but i want to test the result with positive
+   mail (spam). Somebody knows, whrere can i find one.
+
+   PS : Escuse my pooooooor English ;-))
+   
+--
+Toorop 
+Lorsque que vous avez éliminé l'impossible, ce qui reste, 
+même si c'est improbable, doit être la vérité.
+www.spoonsdesign.com
+
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by: OSDN - Tired of that same old
+cell phone?  Get a new here for FREE!
+https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+_______________________________________________
+Razor-users mailing list
+Razor-users@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/razor-users
+
+",ham,0.007874015748031496,0.0,0.0,0.001183431952662722,0.0,1.3181818181818181
+5587807b85eebb8d,"Subject: FORTUNE 500 COMPANY HIRING, AT HOME REPS.
+
+Help wanted.  We are a 14 year old fortune 500 company, that is
+growing at a tremendous rate.  We are looking for individuals who
+want to work from home.
+
+This is an opportunity to make an excellent income.  No experience
+is required.  We will train you.
+
+So if you are looking to be employed from home with a career that has
+vast opportunities, then go:
+
+http://www.basetel.com/wealthnow
+
+We are looking for energetic and self motivated people.  If that is you
+than click on the link and fill out the form, and one of our
+employement specialist will contact you.
+
+To be removed from our link simple go to:
+
+http://www.basetel.com/remove.html
+
+
+4139vOLW7-758DoDY1425FRhM1-764SMFc8513fCsLl40
+
+",spam,0.0,0.0,0.007874015748031496,0.0,0.0,2.2
+64354440892e20b3,"Subject: [Spambayes] Current histograms 
+
+
+
+> How were these msgs broken up into the 5 sets?  Set4 in particular is giving
+> the other sets severe problems, and Set5 blows the f-n rate on everything
+> it's predicting -- when the rates across runs within a training set vary by
+> as much as a factor of 25, it suggests there was systematic bias in the way
+> the sets were chosen.  For example, perhaps they were broken into sets by
+> arrival time.  If that's what you did, you should go back and break them
+> into sets randomly instead.  If you did partition them randomly, the wild
+> variance across runs is mondo mysterious.
+
+They weren't partitioned in any particular scheme - I think I'll write a
+reshuffler and move them all around, just in case (fwiw, I'm using MH 
+style folders with numbered files - means you can just use MH tools to 
+manipulate the sets.)
+
+
+> For whatever reason, there appear to be few of those in BruceG's spam
+> collection.  I added code to strip uuencoded sections, and pump out uuencode
+> summary tokens instead.  I'll check it in.  It didn't make a significant
+> difference on my usual test run (a single spam in my Set4 is now judged as
+> ham by the other 4 sets; nothing else changed).  It does shrink the database
+> size here by a few percent.  Let us know whether it helps you!
+
+I'll give it a go.
+
+
+-- 
+Anthony Baxter     <anthony@interlink.com.au>   
+It's never too late to have a happy childhood.
+
+",ham,0.0,0.0,0.0,0.0006958942240779402,0.0,1.0714285714285714
+60d7370e52a9e12a,"Subject: Re: RH 8 no DMA for DVD drive
+
+Once upon a time, Jesse wrote :
+
+> When I worked as a PC repair tech for a Computer store chain, I did
+> run across quite a few DVD drives that would lock up if DMA was
+> enabled.  It's more of a chipset/drive problem than a Drive by itself.
+
+Chipset? Let me guess : VIA or SiS? :-))))
+OK, so I'll follow Red Hat's choice of leaving the DMA setting alone and
+orienting the users to some page explaining how to enable it ""at your own
+risk"" ;-)
+
+Matthias
+
+-- 
+Clean custom Red Hat Linux rpm packages : http://freshrpms.net/
+Red Hat Linux release 7.3 (Valhalla) running Linux kernel 2.4.18-10acpi
+Load : 0.03 0.09 0.10
+
+_______________________________________________
+RPM-List mailing list <RPM-List@freshrpms.net>
+http://lists.freshrpms.net/mailman/listinfo/rpm-list
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.4634146341463414
+c530b19035528ab8,"Subject: [Razor-users] no positive razor hits?
+
+On Tue, 10 Sep 2002, Rose, Bobby wrote:
+
+> Use the sample-spam.txt from Spamassassin and do a ""razor-check -d <
+> sample-spam.txt""
+
+Interesting.  I just upgraded to razor-agents 2.14 yesterday, ran
+razor-admin -register.  I to am seeing that I'm not getting any positives
+from razor.  Including the sample-spam.txt's from spamassassin 2.41, 2.31,
+and 2.20.
+
+Any suggestions?  thanks.
+
+-d output below
+
+
+
+maxwell:/var/qmail/alias/gb-users%# razor-check -d <
+/usr/local/src/Mail-SpamAssassin-2.20/sample-spam.txt
+ Razor-Log: Computed razorhome from env: /root/.razor
+ Razor-Log: Found razorhome: /root/.razor
+ Razor-Log: No /root/.razor/razor-agent.conf found, skipping.
+ Razor-Log: No razor-agent.conf found, using defaults. 
+Sep 12 12:04:13.785852 check[52238]: [ 1] [bootup] Logging initiated
+LogDebugLevel=9 to stdout
+Sep 12 12:04:13.787113 check[52238]: [ 5] computed razorhome=/root/.razor,
+conf=, ident=/root/.razor/identity-ruqVa5jbuS
+Sep 12 12:04:13.787442 check[52238]: [ 2]  Razor-Agents v2.14 starting
+razor-check -d
+Sep 12 12:04:13.789903 check[52238]: [ 9] uname -a: FreeBSD
+maxwell.gta.com 4.5-RELEASE-p3 FreeBSD 4.5-RELEASE-p3 #0: Wed May 22
+14:52:29 EDT 2002     root@maxwell.gta.com:/usr/src/sys/compile/maxwell
+i386
+Sep 12 12:04:13.790480 check[52238]: [ 8] reading straight RFC822 mail
+from <stdin>
+Sep 12 12:04:13.791397 check[52238]: [ 6] read 1 mail
+Sep 12 12:04:13.791917 check[52238]: [ 8] Client supported_engines: 1 2 3
+4
+Sep 12 12:04:13.792948 check[52238]: [ 8]  prep_mail done: mail 1
+headers=1432, mime0=3139
+Sep 12 12:04:13.793639 check[52238]: [ 6] skipping whitelist file
+(empty?): /root/.razor/razor-whitelist
+Sep 12 12:04:13.794295 check[52238]: [ 5] read_file: 1 items read from
+/root/.razor/servers.discovery.lst
+Sep 12 12:04:13.794871 check[52238]: [ 5] read_file: 1 items read from
+/root/.razor/servers.nomination.lst
+Sep 12 12:04:13.795382 check[52238]: [ 5] read_file: 3 items read from
+/root/.razor/servers.catalogue.lst
+Sep 12 12:04:13.796047 check[52238]: [ 9] Assigning defaults to
+honor.cloudmark.com
+Sep 12 12:04:13.796456 check[52238]: [ 9] Assigning defaults to
+apt.cloudmark.com
+Sep 12 12:04:13.796829 check[52238]: [ 9] Assigning defaults to
+fire.cloudmark.com
+Sep 12 12:04:13.797180 check[52238]: [ 9] Assigning defaults to
+truth.cloudmark.com
+Sep 12 12:04:13.798322 check[52238]: [ 5] read_file: 11 items read from
+/root/.razor/server.apt.cloudmark.com.conf
+Sep 12 12:04:13.799188 check[52238]: [ 5] read_file: 11 items read from
+/root/.razor/server.honor.cloudmark.com.conf
+Sep 12 12:04:13.799866 check[52238]: [ 5] 96778 seconds before closest
+server discovery
+Sep 12 12:04:13.800342 check[52238]: [ 6] apt.cloudmark.com is a Catalogue
+Server srl 51; computed min_cf=1, Server se: 0A
+Sep 12 12:04:13.800818 check[52238]: [ 8] Computed supported_engines: 2 4
+Sep 12 12:04:13.801167 check[52238]: [ 8] Using next closest server
+apt.cloudmark.com:2703, cached info srl 51
+Sep 12 12:04:13.801513 check[52238]: [ 8] mail 1 Subject: Home Based
+Business for Grownups
+Sep 12 12:04:13.805467 check[52238]: [ 6] preproc: mail 1.0 went from 3139
+bytes to 3100 
+Sep 12 12:04:13.805878 check[52238]: [ 6] computing sigs for mail 1.0, len
+3100
+Sep 12 12:04:13.809475 check[52238]: [ 5] Connecting to apt.cloudmark.com
+...
+Sep 12 12:04:18.587441 check[52238]: [ 8] Connection established
+Sep 12 12:04:18.587929 check[52238]: [ 4] apt.cloudmark.com >> 29 server
+greeting: sn=C&srl=51&ep4=7542-10&a=l
+Sep 12 12:04:18.588562 check[52238]: [ 6] apt.cloudmark.com is a Catalogue
+Server srl 51; computed min_cf=1, Server se: 0A
+Sep 12 12:04:18.589041 check[52238]: [ 8] Computed supported_engines: 2 4
+Sep 12 12:04:18.589432 check[52238]: [ 8] mail 1.0 e2
+sig: PGFfFte87P3Ve-CPTdu3NWgiBikA
+Sep 12 12:04:18.589751 check[52238]: [ 8] mail 1.0 e4
+sig: k6oGZsa1AvVolyvalWx2AACdWb8A
+Sep 12 12:04:18.590103 check[52238]: [ 8] preparing 2 queries
+Sep 12 12:04:18.590638 check[52238]: [ 8] sending 1 batches
+Sep 12 12:04:18.591087 check[52238]: [ 4] apt.cloudmark.com << 96
+Sep 12 12:04:18.591324 check[52238]: [ 6]
+-a=c&e=2&s=PGFfFte87P3Ve-CPTdu3NWgiBikA
+a=c&e=4&ep4=7542-10&s=k6oGZsa1AvVolyvalWx2AACdWb8A
+.
+Sep 12 12:04:19.270870 check[52238]: [ 4] apt.cloudmark.com >> 14
+Sep 12 12:04:19.271227 check[52238]: [ 6] response to sent.1
+-p=0
+p=0
+.
+Sep 12 12:04:19.272130 check[52238]: [ 6] mail 1.0 e=2
+sig=PGFfFte87P3Ve-CPTdu3NWgiBikA: sig not found.
+Sep 12 12:04:19.272449 check[52238]: [ 6] mail 1.0 e=4
+sig=k6oGZsa1AvVolyvalWx2AACdWb8A: sig not found.
+Sep 12 12:04:19.272760 check[52238]: [ 7] method 5: mail
+1.0: no-contention part, spam=0
+Sep 12 12:04:19.273012 check[52238]: [ 7] method 5: mail 1: a
+non-contention part not spam, mail not spam
+Sep 12 12:04:19.273257 check[52238]: [ 3] mail 1 is not known spam.
+Sep 12 12:04:19.273578 check[52238]: [ 5] disconnecting from server
+apt.cloudmark.com
+Sep 12 12:04:19.273982 check[52238]: [ 4] apt.cloudmark.com << 5
+Sep 12 12:04:19.274203 check[52238]: [ 6] a=q
+Sep 12 12:04:19.274585 check[52238]: [ 8] razor-check finished
+successfully.
+
+
+
+
+
+
+
+---
+david raistrick
+drais@atlasta.net		http://www.expita.com/nomime.html
+
+
+
+
+-------------------------------------------------------
+This sf.net email is sponsored by:ThinkGeek
+Welcome to geek heaven.
+http://thinkgeek.com/sf
+_______________________________________________
+Razor-users mailing list
+Razor-users@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/razor-users
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.2588235294117647
+65037ebc4174db14,"Subject: [use Perl] Headlines for 2002-08-27
+
+use Perl Daily Headline Mailer
+
+This Week on perl5-porters (19-25 August 2002)
+    posted by rafael on Monday August 26, @07:42 (summaries)
+    http://use.perl.org/article.pl?sid=02/08/26/1154225
+
+Slashdot Taking Questions to Ask Larry Wall
+    posted by pudge on Monday August 26, @14:41 (perl6)
+    http://use.perl.org/article.pl?sid=02/08/26/1845224
+
+
+
+
+Copyright 1997-2002 pudge.  All rights reserved.
+
+
+======================================================================
+
+You have received this message because you subscribed to it
+on use Perl.  To stop receiving this and other
+messages from use Perl, or to add more messages
+or change your preferences, please go to your user page.
+
+	http://use.perl.org/my/messages/
+
+You can log in and change your preferences from there.
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.0
+cfcfe731b5b31881,"Subject: Central
+
+URL: http://diveintomark.org/archives/2002/10/06.html#central
+Date: 2002-10-06T23:30:20-05:00
+
+_Michael Barrish_: Home[1]. &#8220;Had I been given a choice in the matter, I 
+would have preferred a name that made people think of things I considered more 
+central to my identity, like &#8220;artist&#8221; or &#8220;intellectual&#8221; 
+or &#8220;outrageously good in bed.&#8221;&#8221;
+
+
+
+[1] http://oblivio.com/road/02100401.shtml
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.1666666666666667
+64329ea8627bc9d2,"Subject: ADV: Professional Teeth Whitening At Home!                                                   ovcnd
+
+Whiter teeth and a brighter smile are just a click away! 
+http://www.newnamedns.com/dental/
+
+Have you considered professional teeth whitening? If so, you know it usually costs between $300 and $500 from your local dentist!
+
+Visit our site to learn how to professionally whiten your teeth, using the exact same whitening system your dentist uses, at a fraction of the cost!
+
+We know our product is the best on the market, and we back it with a 30 day money back guarantee!
+
+Click here to find out more!
+http://www.newnamedns.com/dental/
+         
+        
+        
+        
+       
+---------------------------------------
+To easily remove your address from the list, go to: 
+http://www.newnamedns.com/stopthemailplease/
+Please allow 48-72 hours for removal.
+
+",spam,0.0,0.008333333333333333,0.008333333333333333,0.006920415224913495,0.002306805074971165,1.1333333333333333
+1065919b68aa776c,"Subject: YOUR ACCOUNT HAS BEEN CLOSED!
+
+You have been removed from our list.
+You will NOT be able to recieve todays picks in the email
+You will NOT be notified of any new sports pick websites.
+
+IF YOU HAVE QUESTIONS ABOUT WHY YOUR ACCOUNT IS EXPIRED,
+YOUR ACCOUNT WAS CLOSED FOR ONE OF THE FOLLOWING REASONS. 
+
+1. YOU FAILED TO LOG INTO YOUR ACCCOUNT FOR OVER A MONTH. 
+2. YOUR ACCOUNT WAS FOUND ON A SPAM LIST AND REJECTED. 
+3. THE GIFT ACCOUNT SOMEONE SIGNED YOU UP FOR EXPIRED.
+
+If you wish to rejoin please go to the following url:
+http://www.freewebs.com/registar/
+
+YOU DO NOT NEED TO DO ANYTHING TO BE REMOVED FROM THIS eMAIL LIST.
+THIS IS A ONE TIME MAILING TO NOTIFY YOU THAT, YOU ARE REMOVED.
+However, you may reply with the word ""remove"" in the subject line
+
+
+",spam,0.0,0.0,0.0070921985815602835,0.0012987012987012987,0.0,3.9444444444444446
+4848bd860e4e2f63,"Subject: public mailing list sign up package
+
+Has anyone seen/heard of/used some package that would let a random person 
+go to a webpage, create a mailing list, then administer that list.  Also 
+of course let ppl sign up for the lists and manage their subscriptions. 
+Similar to the old listbot.org, but i'd like to have it running on my 
+server not someone elses :)
+
+Chris
+
+http://xent.com/mailman/listinfo/fork
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.0
+332c061283fb119c,"Subject: Re: sed /s/United States/Roman Empire/g
+
+
+----- Original Message -----
+From: ""James Rogers"" <jamesr@best.com>
+
+> As I've said before, American
+> Indian Reservations are quite possibly the only place on the planet where
+> you can find trailer park shantytowns where every household is bringing in
+a
+> six-figure income.  I wish I could be exploited like that.
+
+If you can't trust the guvmint census, who can you trust?
+
+===
+
+http://www.census.gov/Press-Release/www/2001/cb01fff15.html
+
+Income and Poverty
+
+$31,799
+Median household income for American Indians and Alaska Natives, based on a
+1998-2000 average. This is higher than for African Americans ($28,679), not
+statistically different from Hispanics ($31,703) and lower than for
+non-Hispanic Whites ($45,514), and Asians and Pacific Islanders ($52,553).
+<http://www.census.gov/Press-Release/www/2001/cb01-158.html>
+
+25.9%
+The poverty rate for American Indians and Alaska Natives, based on a
+1998-2000 average. This rate was not statistically different from the rates
+for African Americans and Hispanics, but was higher than those for
+non-Hispanic Whites, and Asians and Pacific Islanders.
+<http://www.census.gov/Press-Release/www/2001/cb01-158.html>
+
+701,000
+Number of American Indians and Alaska Natives below the poverty line, based
+on a 1998-2000 average.
+<http://www.census.gov/Press-Release/www/2001/cb01-158.html>
+
+===
+
+
+
+
+",ham,0.0,0.0,0.0,0.0,0.0035919540229885057,1.0
+fa5c6aa2c145311f,"Subject: NYTimes.com Article: Some Friends, Indeed, Do More Harm Than Good
+
+This article from NYTimes.com 
+has been sent to you by khare@alumni.caltech.edu.
+
+
+Sure does explain FoRK :-)
+
+not yet abandoned,
+  Rohit
+
+khare@alumni.caltech.edu
+
+
+Some Friends, Indeed, Do More Harm Than Good
+
+September 10, 2002
+By MARY DUENWALD 
+
+
+
+
+ 
+
+Friends are supposed to be good for you. In recent years,
+scientific research has suggested that people who have
+strong friendships experience less stress, they recover
+more quickly from heart attacks and they are likely to live
+longer than the friendless. They are even less susceptible
+to the common cold, studies show. 
+
+But not all friends have such a salutary effect. Some lie,
+insult and betray. Some are overly needy. Some give too
+much advice. Psychologists and sociologists are now calling
+attention to the negative health effects of bad friends. 
+
+""Friendship is often very painful,"" said Dr. Harriet
+Lerner, a psychologist and the author of ""The Dance of
+Connection."" ""In a close, enduring friendship, jealousy,
+envy, anger and the entire range of difficult emotions will
+rear their heads. One has to decide whether the best thing
+is to consider it a phase in a long friendship or say this
+is bad for my health and I'm disbanding it."" 
+
+Another book, ""When Friendship Hurts,"" by Dr. Jan Yager, a
+sociologist at the University of Connecticut at Stamford,
+advises deliberately leaving bad friends by the wayside.
+""There's this myth that friendships should last a
+lifetime,"" Dr. Yager said. ""But sometimes it's better that
+they end."" 
+
+That social scientists would wait until now to spotlight
+the dangers of bad friends is understandable, considering
+that they have only recently paid close attention to
+friendship at all. Marriage and family relationships -
+between siblings or parents and children - have been seen
+as more important. 
+
+Of course, troubled friendships are far less likely to lead
+to depression or suicide than troubled marriages are. And
+children are seldom seriously affected when friendships go
+bad. 
+
+As a popular author of relationship advice books, Dr.
+Lerner said, ""Never once have I had anyone write and say my
+best friend hits me."" 
+
+Dr. Beverley Fehr, a professor of psychology at the
+University of Winnipeg, noted that sociological changes,
+like a 50 percent divorce rate, have added weight to the
+role of friends in emotional and physical health. 
+
+""Now that a marital relationship can't be counted on for
+stability the way it was in the past, and because people
+are less likely to be living with or near extended family
+members, people are shifting their focus to friendships as
+a way of building community and finding intimacy,"" said Dr.
+Fehr, the author of ""Friendship Processes."" 
+
+Until the past couple of years, the research on friendship
+focused on its health benefits. ""Now we're starting to look
+at it as a more full relationship,"" said Dr. Suzanna Rose,
+a professor of psychology at Florida International
+University in Miami. ""Like marriage, friendship also has
+negative characteristics."" 
+
+The research is in its infancy. Psychologists have not yet
+measured the ill effects of bad friendship, Dr. Fehr said.
+So far they have only, through surveys and interviews,
+figured out that it is a significant problem. The early
+research, Dr. Fehr added, is showing that betrayal by a
+friend can be more devastating than experts had thought. 
+
+How can a friend be bad? Most obviously, Dr. Rose said, by
+drawing a person into criminal or otherwise ill-advised
+pursuit. ""When you think of people who were friends at
+Enron,"" she added, ""you can see how friendship can support
+antisocial behavior."" 
+
+Betrayal also makes for a bad friendship. ""When friends
+split up,"" said Dr. Keith E. Davis, a professor of
+psychology at the University of South Carolina, ""it is
+often in cases where one has shared personal information or
+secrets that the other one wanted to be kept confidential.""
+
+
+Another form of betrayal, Dr. Yager said, is when a friend
+suddenly turns cold, without ever explaining why. ""It's
+more than just pulling away,"" she said. ""The silent
+treatment is actually malicious."" 
+
+At least as devastating is an affair with the friend's
+romantic partner, as recently happened to one of Dr.
+Lerner's patients. ""I would not encourage her to hang in
+there and work this one out,"" Dr. Lerner said. 
+
+A third type of bad friendship involves someone who insults
+the other person, Dr. Yager said. One of the 180 people who
+responded to Dr. Yager's most recent survey on friendship
+described how, when she was 11, her best friend called her
+""a derogatory name."" The woman, now 32, was so devastated
+that she feels she has been unable to be fully open with
+people ever since, Dr. Yager said. 
+
+Emotional abuse may be less noticeable than verbal abuse,
+but it is ""more insidious,"" Dr. Yager said. ""Some people
+constantly set up their friends,"" she explained. ""They'll
+have a party, not invite the friend, but make sure he or
+she finds out."" 
+
+Risk takers, betrayers and abusers are the most extreme
+kinds of bad friends, Dr. Yager said, but they are not the
+only ones. She identifies 21 different varieties. Occupying
+the second tier of badness are the liar, the person who is
+overly dependent, the friend who never listens, the person
+who meddles too much in a friend's life, the competitor and
+the loner, who prefers not to spend time with friends. 
+
+Most common is the promise breaker. ""This includes everyone
+from the person who says let's have a cup of coffee but
+something always comes up at the last minute to someone who
+promises to be there for you when you need them, but then
+isn't,"" Dr. Yager said. 
+
+Some friendships go bad, as some romantic relationships do,
+when one of the people gradually or suddenly finds reasons
+to dislike the other one. 
+
+""With couples, it can take 18 to 24 months for someone to
+discover there's something important they don't like about
+the other person,"" said Dr. Rose of Florida International.
+""One might find, for example, that in subtle ways the other
+person is a racist. In friendships, which are less intense,
+it may take even more time for one person to meet the
+other's dislike criteria."" 
+
+Whether a friendship is worth saving, Dr. Lerner said,
+""depends on how large the injury is."" 
+
+""Sometimes the mature thing is to lighten up and let
+something go,"" she added. ""It's also an act of maturity
+sometimes to accept another person's limitations."" 
+
+Acceptance should come easier among friends than among
+spouses, Dr. Lerner said, because people have more than one
+friend and do not need a full range of emotional support
+from each one. 
+
+But if the friendship has deteriorated to the point where
+one friend truly dislikes the other one or finds that the
+friendship is causing undue stress, the healthy response is
+to pull away, Dr. Yager said, to stop sharing the personal
+or intimate details of life, and start being too busy to
+get together, ever. 
+
+""It takes two people to start and maintain a friendship,
+but only one to end it,"" Dr. Yager said. 
+
+Friendship, because it is voluntary and unregulated, is far
+easier to dissolve than marriage. But it is also
+comparatively fragile, experts say. Ideally, the loss of a
+bad friendship should leave a person with more time and
+appreciation for good ones, Dr. Lerner said. 
+
+""It is wise to pay attention to your friendships and have
+them in order while you're healthy and your life and work
+are going well,"" she said. ""Because when a crisis hits,
+when someone you love dies, or you lose your job and your
+health insurance, when the universe gives you a crash
+course in vulnerability, you will discover how crucial and
+life-preserving good friendship is.""
+
+http://www.nytimes.com/2002/09/10/health/psychology/10FRIE.html?ex=1032684795&ei=1&en=2a88a6d1b985c977
+
+
+
+HOW TO ADVERTISE
+---------------------------------
+For information on advertising in e-mail newsletters 
+or other creative advertising opportunities with The 
+New York Times on the Web, please contact
+onlinesales@nytimes.com or visit our online media 
+kit at http://www.nytimes.com/adinfo
+
+For general information about NYTimes.com, write to 
+help@nytimes.com.  
+
+Copyright 2002 The New York Times Company
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.1597938144329898
+18b1ae26914662c5,"Subject: Photoshop Sean Connery giving us some good advice
+
+URL: http://www.newsisfree.com/click/-2,8424916,1717/
+Date: 2002-10-01T09:35:15+01:00
+
+(Local Library)
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.2222222222222223
+da1c610cc4ff7c5d,"Subject: Cast not the first stone
+
+URL: http://diveintomark.org/archives/2002/10/02.html#cast_not_the_first_stone
+Date: 2002-10-02T09:30:52-05:00
+
+First Blood is Spilled at Record Industry Hearings[1]. &#8220;In a shocking 
+statement made by Back Street Boy, Kevin Richardson, he testified that they 
+have NEVER received a royalty check, and that they only took a large advance 
+after their third hit album in a row failed to earn them a penny in 
+royalties.&#8221;
+
+
+
+[1] http://www.musicdish.com/mag/?id=6675
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.3333333333333333
+fa79f93147db2625,"Subject: 9/2/00: ""In the overworked world of Web development, there's no    time to stu
+
+URL: http://scriptingnews.userland.com/backissues/2002/09/24#When:7:38:08AM
+Date: Tue, 24 Sep 2002 14:38:08 GMT
+
+9/2/00[1]: ""In the overworked world of Web development, there's no time to 
+study, there's only time to do.""
+
+[1] http://davenet.userland.com/2000/09/02/whatToDoAboutRss#rssIsAboutSimplicity
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.263157894736842
+dace7c7eeaf5eb4a,"Subject: RE: [SAtalk] Debianized Packages for SA 2.3+
+
+I successfully installed spamassassin & razor to run system wide on my
+Debian Woody server.  
+ 
+Briefly I 
+apt-get installed spamassassin razor and libmilter-dev,
+ 
+downloaded spamass-milter-0.1.2.tar.gz from http://www.milter.org,
+ungzipped and untarred the file into /etc/mail, 
+ 
+followed the directions in /etc/mail/spamass-milter-0.1.2/README to
+compile the milter, install the rc scripts, and edit and update
+sendmail.mc
+ 
+changed /etc/default/spamassassin to set spamassassin to daemon mode.
+ 
+verified that spamassassin was running by tailing /var/log/mail.log
+ 
+ 
+Woody/stable has SA 2.20
+Woody/unstable has SA 2.41
+
+I'm running the stable source live right now and it is working very
+well.
+
+If you want unstable change /etc/apt/sources.list, substituting
+""unstable"" for ""stable"",
+Run apt-get update
+Install the unstable versions
+Change /etc/apt/sources.list
+Run apt-get update
+
+
+Quentin Krengel
+Krengel Technology Inc
+
+
+
+-----Original Message-----
+From: spamassassin-talk-admin@example.sourceforge.net
+[mailto:spamassassin-talk-admin@lists.sourceforge.net] On Behalf Of
+Tanniel Simonian
+Sent: Wednesday, September 11, 2002 4:15 PM
+To: spamassassin-talk@example.sourceforge.net
+Subject: [SAtalk] Debianized Packages for SA 2.3+
+
+
+Im currently using woody.
+
+Is there a debianized package for SA on Woody, or at least somewhere I
+can download from? Its been soo long that I haven't compiled stuff, that
+Im sort of shy to try again. =)
+
+
+
+-- 
+Tanniel Simonian
+Programmer / Analyst III
+UCR Libraries
+http://libsys.ucr.edu
+909 787 2832
+
+
+
+
+-------------------------------------------------------
+In remembrance
+www.osdn.com/911/ _______________________________________________
+Spamassassin-talk mailing list Spamassassin-talk@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+
+
+
+
+
+-------------------------------------------------------
+In remembrance
+www.osdn.com/911/
+_______________________________________________
+Spamassassin-talk mailing list
+Spamassassin-talk@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.2727272727272727
+e37aa29ae4267989,"Subject: FriendSearch and zzzzason.org Partnership
+
+Dear zzzzason.org,
+
+My name is Andy Koh, the Business Development Manager for FriendSearch.com.
+Could you please forward this to the person in charge of new partnerships and
+advertising.
+
+FriendSearch currently powers web personals and love sites for over 10,000
+partners on the web, across over 200 countries.  Some of our partners include
+AllCommunity.com, CariKawan.com, HotPlugins.com, Free-Banners.com and much
+more.  Over the months, our partners have been pleasantly surprised to find
+that we are steadily earning them significant revenue streams, month after month.
+
+We are looking to advertise/partner with you to provide you with:
+
+- 100% customizable friendsearch personals plug-in
+- steady income stream with 50% revenue share (earn up to $12.50/month/member)
+- Interactive content which will capture your audience's attention for at least 20 minutes
+- Private branding, co-branding, or your own hosted domain/site.
+- Fast, 15 minutes setup, fully automatic!
+- Zero setup fee, absolutely no charges and payments required
+
+To view an example of a fully customized personals using Friendsearch, go to
+http://www.carikawan.com/ which has become Malaysia's largest web personals
+and have received lots of media attention.  All it took was a few minutes to set up.
+
+In fact, I have taken the effort to create a partner account for you.
+
+Click below and you'll be taken to your control panel where you can customize
+your own Friendsearch Personals Plug-In.
+
+http://www.ezernet.com/b2b-domain.cgi?id=62898&dname=zzzzason.org
+
+
+
+
+Please try out your account or contact me if you have further questions, or
+if you have any other ideas on how we can partner up.
+
+
+Best Regards,
+
+Andy Koh,
+FriendSearch.com
+Business Development Manager
+
+
+If you do not wish to have this account, click below to remove it entirely.
+http://www.ezernet.com/b2b-remove.cgi?id=62898&dname=zzzzason.org
+
+
+
+
+
+",spam,0.003236245954692557,0.0,0.006472491909385114,0.0005159958720330237,0.0005159958720330237,1.0
+03d402d1641ab499,"Subject: [ILUG-Social] URGENT ASSISTANT NEEDED
+
+Dear friend,
+
+I am Mrs. Sese-seko widow of late President Mobutu Sese-seko of Zaire, now known as Democratic Republic of Congo (DRC). I am moved to write you this letter. 
+
+This was in confidence considering my present circumstance and situation. I escaped along with my husband and two of our sons James Kongolo and Nzanga out of Democratic Republic of Congo (DRC) to Abidjan, Coted'ivoire where my family and I settled, while we later moved to settled in Morroco where my husband later died of cancer disease. However, due to this situation we decided to change most of my husband's billions of dollars deposited in Swiss bank and other countries into other forms of money coded for safe purpose because the new head of state of (Dr) Mr Laurent Kabila has made arrangement with the Swiss government and other European countries to freeze all my late husband's treasures deposited in some european countries. 
+
+Hence, my children and I decided laying low in Africa to study the situation
+till when things gets better. Like now that president Kabila is dead and the son taking over
+(Joseph Kabila). One of my late husband's chateaux in Southern France was confiscated by the french government, and as such I had to change my identity so that my investment will not be traced and confiscated.I have deposited the sum Eighteen Million United State
+Dollars (US$18,000,000,00.) With a security company for safe keeping. What I want you to do is to indicate yourinterest that you can assist us in receiving the money on our behalf, so that I can introduce you to my son (Kongolo) who has the out modalities for the claim
+of the said funds. I want you to assist in investing this money, but I will not want my identity revealed.I will also want to acquire real/landed properties and
+stock in multi-national companies and to engage in other safe and non-speculative investments as adviseby your good self. May I at this point emphasize the high level of
+confidentiality, which this upcoming project demands,and hope you will not betray the trust and
+confidence, which I repose in you.In conclusion, if you want to assist us, my son (Kongolo) shall divulgeto you all briefs regarding this project, tell you where
+the funds are currently being maintained and also discuss remuneration for your services.For this reason kindly furnish us your contact information,that is your personal telephone and fax number for validation purpose and acknowledge receipt of this mail using the above email address.
+
+Yours sincerely,
+
+Mrs. Mariam M. Seseseko.
+
+
+
+-- 
+Irish Linux Users' Group Social Events: social@linux.ie
+http://www.linux.ie/mailman/listinfo/social for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+
+",spam,0.0,0.006396588486140725,0.0,0.0,0.0003619254433586681,1.3095238095238095
+cc7560c9a6972002,"Subject: EFnet #fork
+
+Someone has taken it.  Mostly newtel users.  I think we can take the.
+C
+
+-- 
+""I don't take no stocks in mathematics, anyway"" --Huckleberry Finn
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.1111111111111112
+34cde469d0c4292e,"Subject: [ILUG] Got me a crappy laptop
+
+Hey,
+I has just been given an old Toshiba CS100 with earliest pentium and 400mb
+of HD but only a floppy drive on it, its got Win3.1 which is funny to see
+again but gonna be cleared as soon as i stop messing with it. What I was
+wondering was could anyone advise what O/S would be good for this, I want a
+small usable *nix distro for it that i can transfer to it fom floppy.
+Connecting this to Winblows>i know that winblows allows pier-to-pier
+connections over serial and parellel ports to other winblows but is this
+easy do for connecting winblows to *nix???
+
+
+
+-- 
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.2380952380952381
+64bd31f3621b3fc4,"Subject: Re: A moment of silence for the First Amendment (fwd)
+
+> From: Owen Byrne <owen@permafrost.net>
+> A flippant remark that I will probably regret  -
+> sure there's assholes everywhere. I just remember a lunch in Spain with
+> a semi-famous American - I think we had about 10 nationalities at the
+> table, and he managed to insult each of them within
+> 15 minutes. A historical perspective makes me think that empires -
+> Roman, British, Russian, American, whatever - produce
+>  a larger proportion of assholes than subject nations (and are more
+> likely to have them in positions of authority).
+
+Yep, those that win battles collect tthe spoils.  Lead and breed.  Want it to be
+different?  Lead, don't whine.
+
+
+",ham,0.0,0.0,0.0,0.0,0.0,1.0
