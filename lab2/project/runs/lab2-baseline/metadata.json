@@ -1,0 +1,16 @@
+{
+  "training_data": "train",
+  "train_sha256": "5ac354bedc6feb0566047a48eee9ce318c82a924e5c6363f696c5032ac9024ab",
+  "train_rows": 180,
+  "model_sha256": "f7005de6586b890a970b6cc57647bf0d1aeb8f760fb2129bff11e738b4332fc7",
+  "config_sha256": "85eed89ab14ee1effa2b9a1cdbebf6a5821656406da6b84ea73feeaaa1a786ec",
+  "source_sha256": {
+    "components.py": "ec5b23b6f057d9a8783b1c04df34f9db0e31280d3c6bae50e860bcabbf4b517e",
+    "train.py": "47a7f4007d5e969478305e17c2704c3ef6811b4ba5c2b2e24aabf1b9f9fc8020",
+    "predict.py": "cedd75f27fe5616e3f68571598db62cb8c093c116f21e296de0530276696fdff",
+    "evaluate.py": "ee60052fbbf59833c11f5b386fafcb85ab3dd06d1f90929585440b251009a13f",
+    "check_run.py": "e245d46f388e9d5a6a75e299ca7f3847e506b5a20763e90880cd47babee0e605"
+  },
+  "python": "3.15.0",
+  "sklearn": "1.9.1"
+}

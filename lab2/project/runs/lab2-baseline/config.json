@@ -1,0 +1,13 @@
+{
+  "model": "StandardScaler + LogisticRegression",
+  "C": 0.01,
+  "features": [
+    "free_rate",
+    "money_rate",
+    "remove_rate",
+    "exclamation_rate",
+    "dollar_rate",
+    "capital_run_mean"
+  ],
+  "threshold": 0.5
+}
