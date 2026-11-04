@@ -1,0 +1,14 @@
+{
+  "input_file": "D:\\--------------SZKOLA\\magisterka-semestr3\\miob\\lab\\miob-2026\\lab1\\project\\data\\exercise.csv",
+  "input_sha256": "7dc8080df480e67e5361218ae0e75f26c963ede9d72788985b25cedb818b8152",
+  "total_messages": 8,
+  "label_counts": {
+    "ham": 4,
+    "spam": 4
+  },
+  "runtime": {
+    "python_executable": "C:\\Users\\przem\\AppData\\Local\\Python\\pythoncore-3.15-64\\python.exe",
+    "python_version": "3.15.0",
+    "working_directory": "D:\\--------------SZKOLA\\magisterka-semestr3\\miob\\lab\\miob-2026\\lab1\\project"
+  }
+}
