@@ -1,0 +1,1 @@
+"""Local handwritten-digit classifier."""
