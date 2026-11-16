@@ -1,0 +1,143 @@
+{
+  "cv_reference": {
+    "f1_spam": 0.951,
+    "file": "cv_v2.json",
+    "source": "E4 ablation.json / cv_v2.json"
+  },
+  "hyperparameter_search": "pominięty (E5 świadomie odpuszczony) — parametry z E4",
+  "models": {
+    "v1": {
+      "config": {
+        "classifier": {
+          "alpha": 1.0,
+          "type": "MultinomialNB"
+        },
+        "input": [
+          "text"
+        ],
+        "name": "tfidf_word_1_2__multinomial_nb",
+        "vectorizer": {
+          "lowercase": true,
+          "min_df": 1,
+          "ngram_range": [
+            1,
+            2
+          ],
+          "strip_accents": "unicode",
+          "sublinear_tf": true,
+          "type": "TfidfVectorizer"
+        }
+      },
+      "file": "models/v1.joblib",
+      "n_features": 38117,
+      "score": "predict_proba",
+      "threshold": 0.5
+    },
+    "v2": {
+      "config": {
+        "classifier": {
+          "C": 1.0,
+          "class_weight": "balanced",
+          "type": "LogisticRegression"
+        },
+        "engineered_features": {
+          "n_features": 45,
+          "scaling": "MaxAbsScaler (fit na train)",
+          "source": "src.features.extract",
+          "type": "MessageFeatures"
+        },
+        "input": [
+          "text"
+        ],
+        "name": "tfidf_word_char__engineered__logreg",
+        "vectorizer": [
+          {
+            "lowercase": true,
+            "min_df": 1,
+            "ngram_range": [
+              1,
+              2
+            ],
+            "strip_accents": "unicode",
+            "sublinear_tf": true,
+            "type": "TfidfVectorizer"
+          },
+          {
+            "analyzer": "char_wb",
+            "lowercase": true,
+            "min_df": 2,
+            "ngram_range": [
+              3,
+              5
+            ],
+            "sublinear_tf": true,
+            "type": "TfidfVectorizer"
+          }
+        ]
+      },
+      "file": "models/v2.joblib",
+      "n_features": 67342,
+      "score": "predict_proba",
+      "threshold": 0.5
+    },
+    "v2_svc": {
+      "config": {
+        "classifier": {
+          "C": 0.1,
+          "class_weight": "balanced",
+          "type": "LinearSVC"
+        },
+        "engineered_features": {
+          "n_features": 45,
+          "scaling": "MaxAbsScaler (fit na train)",
+          "source": "src.features.extract",
+          "type": "MessageFeatures"
+        },
+        "input": [
+          "text"
+        ],
+        "name": "tfidf_word_char__engineered__linear_svc",
+        "vectorizer": [
+          {
+            "lowercase": true,
+            "min_df": 1,
+            "ngram_range": [
+              1,
+              2
+            ],
+            "strip_accents": "unicode",
+            "sublinear_tf": true,
+            "type": "TfidfVectorizer"
+          },
+          {
+            "analyzer": "char_wb",
+            "lowercase": true,
+            "min_df": 2,
+            "ngram_range": [
+              3,
+              5
+            ],
+            "sublinear_tf": true,
+            "type": "TfidfVectorizer"
+          }
+        ]
+      },
+      "file": "models/v2_svc.joblib",
+      "n_features": 67342,
+      "score": "decision_function",
+      "threshold": 0.0
+    }
+  },
+  "positive_label": "spam",
+  "seed": 2026,
+  "stage": "E6",
+  "threshold_selection": "brak dostrajania — progi domyślne zapisane z modelem",
+  "trained_on": {
+    "file": "train.csv",
+    "label_counts": {
+      "ham": 120,
+      "spam": 60
+    },
+    "rows": 180
+  }
+}

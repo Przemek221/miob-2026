@@ -1,0 +1,5 @@
+message_id,true_label,predicted_label,score_spam,subject
+00f2413a5421b49a,ham,spam,0.6295536699379555,Subject: [Razor-users] Exit.status =13 ?
+2d5d89669551e7d0,ham,spam,0.9855021715056813,Subject: Oh ma gawd - funny site of the day...
+cc7560c9a6972002,ham,spam,0.5034897386112437,Subject: EFnet #fork
+34cde469d0c4292e,ham,spam,0.7684828377426337,Subject: [ILUG] Got me a crappy laptop

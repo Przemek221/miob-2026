@@ -1,0 +1,10 @@
+message_id,true_label,predicted_label,score_spam,subject
+6c95b20ac24fd89d,spam,ham,0.4088943716589893,Subject: International calls for only 33 cents per minute with no subscription
+017f0817d4c92951,spam,ham,0.2868849813077855,Subject: Newsletter Coach'Invest - Septembre 2002
+229ec2c1ab1a9a42,spam,ham,0.44417045791025933,Subject: Get your own fountain of youth! HGH human growth hormone from 21st Century!17441
+d52481af2cae9d6f,spam,ham,0.3435896603159348,Subject: [ILUG] STOP THE MLM INSANITY
+c8b94646b466d88f,spam,ham,0.3570998365538321,Subject: Tired of paying big bucks for cable
+e8622ab1f5f53257,spam,ham,0.49762709558982454,Subject: [ILUG] Here is the information you requested
+102c6778e128a221,spam,ham,0.46690262582263903,Subject: Garden Ornaments | ppu
+1065919b68aa776c,spam,ham,0.39216086336454925,Subject: YOUR ACCOUNT HAS BEEN CLOSED!
+e37aa29ae4267989,spam,ham,0.44782139341027305,Subject: FriendSearch and zzzzason.org Partnership

@@ -1,0 +1,186 @@
+{
+  "baseline": {
+    "model": "DummyClassifier(strategy='most_frequent')",
+    "report": {
+      "accuracy": 0.6666666666666666,
+      "confusion_matrix": [
+        [
+          40,
+          0
+        ],
+        [
+          20,
+          0
+        ]
+      ],
+      "f1_macro": 0.4,
+      "f1_spam": 0.0,
+      "labels": [
+        "ham",
+        "spam"
+      ],
+      "n_pred": {
+        "ham": 60,
+        "spam": 0
+      },
+      "n_samples": 60,
+      "n_true": {
+        "ham": 40,
+        "spam": 20
+      },
+      "pr_auc": null,
+      "precision_spam": 0.0,
+      "recall_spam": 0.0,
+      "roc_auc": null,
+      "threshold": null
+    },
+    "threshold": 0.5
+  },
+  "errors_count": {
+    "v1": 9,
+    "v2": 4,
+    "v2_svc": 3
+  },
+  "evaluated_file": "validation.csv",
+  "evaluation_runs": 1,
+  "files": {
+    "confusion_matrices": [
+      "confusion_matrix_v1.csv",
+      "confusion_matrix_v2.csv",
+      "confusion_matrix_v2_svc.csv"
+    ],
+    "errors": [
+      "errors_v1.csv",
+      "errors_v2.csv",
+      "errors_v2_svc.csv"
+    ],
+    "models": [
+      "models/v1.joblib",
+      "models/v2.joblib",
+      "models/v2_svc.joblib"
+    ],
+    "predictions": "predictions_validation.csv",
+    "training": "training.json"
+  },
+  "final_model": "v2",
+  "label_counts": {
+    "ham": 40,
+    "spam": 20
+  },
+  "models": {
+    "v1": {
+      "accuracy": 0.85,
+      "confusion_matrix": [
+        [
+          40,
+          0
+        ],
+        [
+          9,
+          11
+        ]
+      ],
+      "f1_macro": 0.8042769119246104,
+      "f1_spam": 0.7096774193548387,
+      "labels": [
+        "ham",
+        "spam"
+      ],
+      "model_key": "v1",
+      "model_name": "tfidf_word_1_2__multinomial_nb",
+      "n_pred": {
+        "ham": 49,
+        "spam": 11
+      },
+      "n_samples": 60,
+      "n_true": {
+        "ham": 40,
+        "spam": 20
+      },
+      "pr_auc": 0.9976190476190478,
+      "precision_spam": 1.0,
+      "predict_consistent": true,
+      "recall_spam": 0.55,
+      "roc_auc": 0.99875,
+      "threshold": 0.5
+    },
+    "v2": {
+      "accuracy": 0.9333333333333333,
+      "confusion_matrix": [
+        [
+          36,
+          4
+        ],
+        [
+          0,
+          20
+        ]
+      ],
+      "f1_macro": 0.9282296650717703,
+      "f1_spam": 0.9090909090909091,
+      "labels": [
+        "ham",
+        "spam"
+      ],
+      "model_key": "v2",
+      "model_name": "tfidf_word_char__engineered__logreg",
+      "n_pred": {
+        "ham": 36,
+        "spam": 24
+      },
+      "n_samples": 60,
+      "n_true": {
+        "ham": 40,
+        "spam": 20
+      },
+      "pr_auc": 0.8446678637503445,
+      "precision_spam": 0.8333333333333334,
+      "predict_consistent": true,
+      "recall_spam": 1.0,
+      "roc_auc": 0.9625,
+      "threshold": 0.5
+    },
+    "v2_svc": {
+      "accuracy": 0.95,
+      "confusion_matrix": [
+        [
+          37,
+          3
+        ],
+        [
+          0,
+          20
+        ]
+      ],
+      "f1_macro": 0.945635759589248,
+      "f1_spam": 0.9302325581395349,
+      "labels": [
+        "ham",
+        "spam"
+      ],
+      "model_key": "v2_svc",
+      "model_name": "tfidf_word_char__engineered__linear_svc",
+      "n_pred": {
+        "ham": 37,
+        "spam": 23
+      },
+      "n_samples": 60,
+      "n_true": {
+        "ham": 40,
+        "spam": 20
+      },
+      "pr_auc": 0.8496620587967841,
+      "precision_spam": 0.8695652173913043,
+      "predict_consistent": true,
+      "recall_spam": 1.0,
+      "roc_auc": 0.9650000000000001,
+      "threshold": 0.0
+    }
+  },
+  "n_validation_rows": 60,
+  "notes": "Ocena wykonana raz, po zamrożeniu modeli zapisanych w artifacts/models/. Modele trenowane wyłącznie na train.csv; validation.csv użyte tylko tutaj. Wynik na małym, historycznym zbiorze (2003) — nie przenosi się wprost na współczesną pocztę.",
+  "positive_label": "spam",
+  "seed": 2026,
+  "stage": "E6",
+  "threshold_selection": "brak (E5 pominięty); próg domyślny zapisany z modelem"
+}

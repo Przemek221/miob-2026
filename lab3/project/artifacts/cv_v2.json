@@ -1,0 +1,284 @@
+{
+  "cv": {
+    "folds": [
+      {
+        "accuracy": 0.9722222222222222,
+        "confusion_matrix": [
+          [
+            23,
+            1
+          ],
+          [
+            0,
+            12
+          ]
+        ],
+        "f1_macro": 0.9693617021276595,
+        "f1_spam": 0.96,
+        "fold": 1,
+        "labels": [
+          "ham",
+          "spam"
+        ],
+        "n_pred": {
+          "ham": 23,
+          "spam": 13
+        },
+        "n_samples": 36,
+        "n_test": 36,
+        "n_train": 144,
+        "n_true": {
+          "ham": 24,
+          "spam": 12
+        },
+        "pr_auc": 0.9614769489769489,
+        "precision_spam": 0.9230769230769231,
+        "recall_spam": 1.0,
+        "roc_auc": 0.982638888888889,
+        "score": "predict_proba",
+        "threshold": null
+      },
+      {
+        "accuracy": 1.0,
+        "confusion_matrix": [
+          [
+            24,
+            0
+          ],
+          [
+            0,
+            12
+          ]
+        ],
+        "f1_macro": 1.0,
+        "f1_spam": 1.0,
+        "fold": 2,
+        "labels": [
+          "ham",
+          "spam"
+        ],
+        "n_pred": {
+          "ham": 24,
+          "spam": 12
+        },
+        "n_samples": 36,
+        "n_test": 36,
+        "n_train": 144,
+        "n_true": {
+          "ham": 24,
+          "spam": 12
+        },
+        "pr_auc": 1.0,
+        "precision_spam": 1.0,
+        "recall_spam": 1.0,
+        "roc_auc": 1.0,
+        "score": "predict_proba",
+        "threshold": null
+      },
+      {
+        "accuracy": 1.0,
+        "confusion_matrix": [
+          [
+            24,
+            0
+          ],
+          [
+            0,
+            12
+          ]
+        ],
+        "f1_macro": 1.0,
+        "f1_spam": 1.0,
+        "fold": 3,
+        "labels": [
+          "ham",
+          "spam"
+        ],
+        "n_pred": {
+          "ham": 24,
+          "spam": 12
+        },
+        "n_samples": 36,
+        "n_test": 36,
+        "n_train": 144,
+        "n_true": {
+          "ham": 24,
+          "spam": 12
+        },
+        "pr_auc": 1.0,
+        "precision_spam": 1.0,
+        "recall_spam": 1.0,
+        "roc_auc": 1.0,
+        "score": "predict_proba",
+        "threshold": null
+      },
+      {
+        "accuracy": 0.9166666666666666,
+        "confusion_matrix": [
+          [
+            23,
+            1
+          ],
+          [
+            2,
+            10
+          ]
+        ],
+        "f1_macro": 0.904170363797693,
+        "f1_spam": 0.8695652173913043,
+        "fold": 4,
+        "labels": [
+          "ham",
+          "spam"
+        ],
+        "n_pred": {
+          "ham": 25,
+          "spam": 11
+        },
+        "n_samples": 36,
+        "n_test": 36,
+        "n_train": 144,
+        "n_true": {
+          "ham": 24,
+          "spam": 12
+        },
+        "pr_auc": 0.9230230417730417,
+        "precision_spam": 0.9090909090909091,
+        "recall_spam": 0.8333333333333334,
+        "roc_auc": 0.9652777777777778,
+        "score": "predict_proba",
+        "threshold": null
+      },
+      {
+        "accuracy": 0.9444444444444444,
+        "confusion_matrix": [
+          [
+            22,
+            2
+          ],
+          [
+            0,
+            12
+          ]
+        ],
+        "f1_macro": 0.939799331103679,
+        "f1_spam": 0.9230769230769231,
+        "fold": 5,
+        "labels": [
+          "ham",
+          "spam"
+        ],
+        "n_pred": {
+          "ham": 22,
+          "spam": 14
+        },
+        "n_samples": 36,
+        "n_test": 36,
+        "n_train": 144,
+        "n_true": {
+          "ham": 24,
+          "spam": 12
+        },
+        "pr_auc": 0.9614769489769489,
+        "precision_spam": 0.8571428571428571,
+        "recall_spam": 1.0,
+        "roc_auc": 0.982638888888889,
+        "score": "predict_proba",
+        "threshold": null
+      }
+    ],
+    "n_splits": 5,
+    "seed": 2026,
+    "summary": {
+      "accuracy": {
+        "mean": 0.9666666666666666,
+        "n_folds": 5,
+        "std": 0.03239417719358502
+      },
+      "f1_macro": {
+        "mean": 0.9626662794058063,
+        "n_folds": 5,
+        "std": 0.03681606046202834
+      },
+      "f1_spam": {
+        "mean": 0.9505284280936455,
+        "n_folds": 5,
+        "std": 0.04958469550791509
+      },
+      "pr_auc": {
+        "mean": 0.9691953879453878,
+        "n_folds": 5,
+        "std": 0.028805841070686726
+      },
+      "precision_spam": {
+        "mean": 0.9378621378621379,
+        "n_folds": 5,
+        "std": 0.05528872630693764
+      },
+      "recall_spam": {
+        "mean": 0.9666666666666668,
+        "n_folds": 5,
+        "std": 0.06666666666666665
+      },
+      "roc_auc": {
+        "mean": 0.986111111111111,
+        "n_folds": 5,
+        "std": 0.012991865926298397
+      }
+    }
+  },
+  "data": {
+    "file": "train.csv",
+    "label_counts": {
+      "ham": 120,
+      "spam": 60
+    },
+    "rows": 180
+  },
+  "model": {
+    "classifier": {
+      "C": 1.0,
+      "class_weight": "balanced",
+      "type": "LogisticRegression"
+    },
+    "engineered_features": {
+      "n_features": 45,
+      "scaling": "MaxAbsScaler (fit na train)",
+      "source": "src.features.extract",
+      "type": "MessageFeatures"
+    },
+    "input": [
+      "text"
+    ],
+    "name": "tfidf_word_char__engineered__logreg",
+    "vectorizer": [
+      {
+        "lowercase": true,
+        "min_df": 1,
+        "ngram_range": [
+          1,
+          2
+        ],
+        "strip_accents": "unicode",
+        "sublinear_tf": true,
+        "type": "TfidfVectorizer"
+      },
+      {
+        "analyzer": "char_wb",
+        "lowercase": true,
+        "min_df": 2,
+        "ngram_range": [
+          3,
+          5
+        ],
+        "sublinear_tf": true,
+        "type": "TfidfVectorizer"
+      }
+    ]
+  },
+  "model_key": "v2",
+  "positive_label": "spam",
+  "seed": 2026,
+  "stage": "E3",
+  "threshold": null
+}

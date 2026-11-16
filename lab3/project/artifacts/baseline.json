@@ -1,0 +1,238 @@
+{
+  "cv": {
+    "folds": [
+      {
+        "accuracy": 0.6666666666666666,
+        "confusion_matrix": [
+          [
+            24,
+            0
+          ],
+          [
+            12,
+            0
+          ]
+        ],
+        "f1_macro": 0.4,
+        "f1_spam": 0.0,
+        "fold": 1,
+        "labels": [
+          "ham",
+          "spam"
+        ],
+        "n_pred": {
+          "ham": 36,
+          "spam": 0
+        },
+        "n_samples": 36,
+        "n_test": 36,
+        "n_train": 144,
+        "n_true": {
+          "ham": 24,
+          "spam": 12
+        },
+        "pr_auc": 0.3333333333333333,
+        "precision_spam": 0.0,
+        "recall_spam": 0.0,
+        "roc_auc": 0.5,
+        "threshold": null
+      },
+      {
+        "accuracy": 0.6666666666666666,
+        "confusion_matrix": [
+          [
+            24,
+            0
+          ],
+          [
+            12,
+            0
+          ]
+        ],
+        "f1_macro": 0.4,
+        "f1_spam": 0.0,
+        "fold": 2,
+        "labels": [
+          "ham",
+          "spam"
+        ],
+        "n_pred": {
+          "ham": 36,
+          "spam": 0
+        },
+        "n_samples": 36,
+        "n_test": 36,
+        "n_train": 144,
+        "n_true": {
+          "ham": 24,
+          "spam": 12
+        },
+        "pr_auc": 0.3333333333333333,
+        "precision_spam": 0.0,
+        "recall_spam": 0.0,
+        "roc_auc": 0.5,
+        "threshold": null
+      },
+      {
+        "accuracy": 0.6666666666666666,
+        "confusion_matrix": [
+          [
+            24,
+            0
+          ],
+          [
+            12,
+            0
+          ]
+        ],
+        "f1_macro": 0.4,
+        "f1_spam": 0.0,
+        "fold": 3,
+        "labels": [
+          "ham",
+          "spam"
+        ],
+        "n_pred": {
+          "ham": 36,
+          "spam": 0
+        },
+        "n_samples": 36,
+        "n_test": 36,
+        "n_train": 144,
+        "n_true": {
+          "ham": 24,
+          "spam": 12
+        },
+        "pr_auc": 0.3333333333333333,
+        "precision_spam": 0.0,
+        "recall_spam": 0.0,
+        "roc_auc": 0.5,
+        "threshold": null
+      },
+      {
+        "accuracy": 0.6666666666666666,
+        "confusion_matrix": [
+          [
+            24,
+            0
+          ],
+          [
+            12,
+            0
+          ]
+        ],
+        "f1_macro": 0.4,
+        "f1_spam": 0.0,
+        "fold": 4,
+        "labels": [
+          "ham",
+          "spam"
+        ],
+        "n_pred": {
+          "ham": 36,
+          "spam": 0
+        },
+        "n_samples": 36,
+        "n_test": 36,
+        "n_train": 144,
+        "n_true": {
+          "ham": 24,
+          "spam": 12
+        },
+        "pr_auc": 0.3333333333333333,
+        "precision_spam": 0.0,
+        "recall_spam": 0.0,
+        "roc_auc": 0.5,
+        "threshold": null
+      },
+      {
+        "accuracy": 0.6666666666666666,
+        "confusion_matrix": [
+          [
+            24,
+            0
+          ],
+          [
+            12,
+            0
+          ]
+        ],
+        "f1_macro": 0.4,
+        "f1_spam": 0.0,
+        "fold": 5,
+        "labels": [
+          "ham",
+          "spam"
+        ],
+        "n_pred": {
+          "ham": 36,
+          "spam": 0
+        },
+        "n_samples": 36,
+        "n_test": 36,
+        "n_train": 144,
+        "n_true": {
+          "ham": 24,
+          "spam": 12
+        },
+        "pr_auc": 0.3333333333333333,
+        "precision_spam": 0.0,
+        "recall_spam": 0.0,
+        "roc_auc": 0.5,
+        "threshold": null
+      }
+    ],
+    "n_splits": 5,
+    "seed": 2026,
+    "summary": {
+      "accuracy": {
+        "mean": 0.6666666666666666,
+        "n_folds": 5,
+        "std": 0.0
+      },
+      "f1_macro": {
+        "mean": 0.4,
+        "n_folds": 5,
+        "std": 0.0
+      },
+      "f1_spam": {
+        "mean": 0.0,
+        "n_folds": 5,
+        "std": 0.0
+      },
+      "pr_auc": {
+        "mean": 0.3333333333333333,
+        "n_folds": 5,
+        "std": 0.0
+      },
+      "precision_spam": {
+        "mean": 0.0,
+        "n_folds": 5,
+        "std": 0.0
+      },
+      "recall_spam": {
+        "mean": 0.0,
+        "n_folds": 5,
+        "std": 0.0
+      },
+      "roc_auc": {
+        "mean": 0.5,
+        "n_folds": 5,
+        "std": 0.0
+      }
+    }
+  },
+  "data": {
+    "file": "train.csv",
+    "label_counts": {
+      "ham": 120,
+      "spam": 60
+    },
+    "rows": 180
+  },
+  "model": "DummyClassifier(strategy='most_frequent')",
+  "notes": "Baseline przewiduje zawsze klasę większościową (ham), więc precision/recall/F1 dla spam wynoszą 0, a ROC-AUC/PR-AUC są nieinformacyjne (stały score). To podłoga dla modeli właściwych.",
+  "positive_label": "spam",
+  "seed": 2026,
+  "stage": "E2"
+}

@@ -1,0 +1,4 @@
+message_id,true_label,predicted_label,score_spam,subject
+00f2413a5421b49a,ham,spam,0.14233572696447538,Subject: [Razor-users] Exit.status =13 ?
+2d5d89669551e7d0,ham,spam,1.3849033131587758,Subject: Oh ma gawd - funny site of the day...
+34cde469d0c4292e,ham,spam,0.40231613494907864,Subject: [ILUG] Got me a crappy laptop
