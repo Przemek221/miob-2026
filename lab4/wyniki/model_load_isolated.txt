@@ -1,0 +1,30 @@
+Izolowane sprawdzenie wczytania modeli — Lab 4
+Data: 2026-11-16
+
+Cel
+----
+Potwierdzić, że bieżące pliki artifacts/models/*.joblib można wczytać
+i użyć do predykcji bez uruchamiania treningu oraz bez odczytu
+data/train.csv lub data/validation.csv.
+
+Uruchomiono w WSL, z PYTHONDONTWRITEBYTECODE=1:
+  .venv/bin/python -c "from src import model; ... model.load_model(...); model.predict_bundle(...)"
+
+Wejście do predykcji (literal w poleceniu, nie plik CSV):
+  Subject: meeting
+
+  Agenda for tomorrow.
+
+Wynik
+-----
+v1 train.csv 180 0.5 ham 0.329505
+v2 train.csv 180 0.5 ham 0.323227
+v2_svc train.csv 180 0.0 ham -0.266889
+
+Interpretacja
+-------------
+Każda z trzech paczek została odczytana i zwróciła etykietę oraz score.
+Pole trained_on w paczkach deklaruje train.csv i 180 wierszy. Sprawdzenie
+nie czytało zbiorów CSV i nie porównuje aktualnych paczek z predykcjami E6;
+nie usuwa więc zastrzeżenia o braku trwałego powiązania wersji modelu z
+metrykami walidacyjnymi.
