@@ -10,7 +10,12 @@ ROOT = Path(__file__).resolve().parents[1]
 def test_training_small_subset_saves_model(tmp_path):
     model_path = tmp_path / "model.joblib"
     results = train_and_select(
-        ROOT / "data/train.csv", ROOT / "data/validation.csv", model_path, tmp_path / "results.csv", max_train_rows=100
+        ROOT / "data/train.csv",
+        ROOT / "data/validation.csv",
+        model_path,
+        tmp_path / "results.csv",
+        model_name="knn_k1",
+        max_train_rows=100,
     )
     assert model_path.is_file()
     assert not results.empty
@@ -18,6 +23,12 @@ def test_training_small_subset_saves_model(tmp_path):
 
 def test_saved_model_predicts_digit_for_valid_png(tmp_path):
     model_path = tmp_path / "model.joblib"
-    train_and_select(ROOT / "data/train.csv", ROOT / "data/validation.csv", model_path, tmp_path / "results.csv")
+    train_and_select(
+        ROOT / "data/train.csv",
+        ROOT / "data/validation.csv",
+        model_path,
+        tmp_path / "results.csv",
+        model_name="svc_c10.0_gammascale",
+    )
     image_path = ROOT / "data" / "images" / "digit-17a28342e8c0.png"
     assert 0 <= predict_image(model_path, image_path) <= 9

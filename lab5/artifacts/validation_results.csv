@@ -1,0 +1,9 @@
+model,validation_accuracy
+svc_c10.0_gammascale,0.975
+knn_k1,0.965
+knn_k3,0.965
+knn_k5,0.96
+svc_c1.0_gammascale,0.96
+knn_k7,0.955
+svc_c10.0_gamma0.01,0.955
+svc_c1.0_gamma0.01,0.915
