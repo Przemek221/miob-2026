@@ -1,4 +1,6 @@
 **codex · GPT 5.6 Terra · Lekki** oraz **opencode · DeepSeek V4.1 Flash Free · Low**
+https://github.com/Przemek221/miob-2026
+
 # Wybrane podejście, najważniejsze decyzje i ich uzasadnienie. Wskaż, co przemówiło za tym rozwiązaniem względem jednej rozważanej alternatywy.
 Wybranym podejściem jest porównanie modeli KNN oraz SVC (modyfikacja SVM) i wybranie lepszego z nich. Początkowo zamysł był taki aby wykorzystać sieci neuronowe, jednak agent podczas sesji analizy przekonał mnie, że obrazy są na tyle małe, że byłoby to niepotrzebne utrudnienie. Poniżej zrzut ekranu z sesji:
 
